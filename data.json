@@ -7,7 +7,7 @@
    "Period": "Q2 22 ",
    "Estimate": "1,395 ",
    "Description": "Q2 2022 Earnings Release",
-   "insref": 1095624
+   "Insref": 1095624
  },
  {
    "Name": "H & M Hennes & Mauritz AB",
@@ -17,7 +17,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,413 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2926
  },
  {
    "Name": "SkiStar AB",
@@ -27,7 +27,7 @@
    "Period": "Y 21 ",
    "Estimate": "0,885 ",
    "Description": "Y 2021 Earnings Release",
-   "insref": null
+   "Insref": 5234
  },
  {
    "Name": "Dustin Group AB",
@@ -37,7 +37,7 @@
    "Period": "Y 21 ",
    "Estimate": "5,202 ",
    "Description": "Y 2021 Earnings Release",
-   "insref": null
+   "Insref": 1004432
  },
  {
    "Name": "Investment AB Oresund",
@@ -47,7 +47,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4317
  },
  {
    "Name": "Industrivarden AB",
@@ -57,7 +57,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3275
  },
  {
    "Name": "Vitec Software Group AB",
@@ -67,7 +67,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,45 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6314
  },
  {
    "Name": "Rizzo Group AB",
@@ -77,7 +77,7 @@
    "Period": "Y 21 ",
    "Estimate": "",
    "Description": "Y 2021 Earnings Release",
-   "insref": null
+   "Insref": 20236
  },
  {
    "Name": "Elanders AB",
@@ -87,7 +87,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,89 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2328
  },
  {
    "Name": "Atrium Ljungberg AB",
@@ -97,7 +97,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,035 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3435
  },
  {
    "Name": "Avanza Bank Holding AB",
@@ -107,7 +107,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,575 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1294
  },
  {
    "Name": "Sandvik AB",
@@ -117,7 +117,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,87 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2956
  },
  {
    "Name": "Investor AB",
@@ -127,7 +127,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 354
  },
  {
    "Name": "TF Bank AB",
@@ -137,7 +137,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,30 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1467015
  },
  {
    "Name": "Tele2 AB",
@@ -147,7 +147,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,76 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1862
  },
  {
    "Name": "Semcon AB",
@@ -157,7 +157,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,84 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4958
  },
  {
    "Name": "Platzer Fastigheter Holding AB",
@@ -167,7 +167,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,50 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 722421
  },
  {
    "Name": "Note AB",
@@ -177,7 +177,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4035
  },
  {
    "Name": "Telefonaktiebolaget LM Ericsso",
@@ -187,7 +187,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,49 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 772
  },
  {
    "Name": "Beijer Ref AB",
@@ -197,7 +197,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,89 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1503
  },
  {
    "Name": "FastPartner AB",
@@ -207,7 +207,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4622427
  },
  {
    "Name": "Castellum AB",
@@ -217,7 +217,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,933 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1686
  },
  {
    "Name": "Byggmax Group AB",
@@ -227,7 +227,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,26 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 116670
  },
  {
    "Name": "Skandinaviska Enskilda Banken",
@@ -237,7 +237,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,51 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4803
  },
  {
    "Name": "Stora Enso Oyj",
@@ -247,7 +247,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,334 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5394
  },
  {
    "Name": "Fabege AB",
@@ -257,7 +257,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,187 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2682
  },
  {
    "Name": "Nelly Group AB",
@@ -267,7 +267,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 162857
  },
  {
    "Name": "Besqab AB",
@@ -277,7 +277,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 868403
  },
  {
    "Name": "Kinnevik AB",
@@ -287,7 +287,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 924
  },
  {
    "Name": "Husqvarna AB",
@@ -297,7 +297,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,733 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3047
  },
  {
    "Name": "K2A Knaust & Andersson Fastigh",
@@ -307,7 +307,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4413119
  },
  {
    "Name": "Softronic AB",
@@ -317,7 +317,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5244
  },
  {
    "Name": "Getinge AB",
@@ -327,7 +327,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,568 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1588
  },
  {
    "Name": "eWork Group AB",
@@ -337,7 +337,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,08 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2678
  },
  {
    "Name": "Svenska Handelsbanken AB",
@@ -347,7 +347,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,298 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4966
  },
  {
    "Name": "Elos Medtech AB",
@@ -357,7 +357,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,38 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2334
  },
  {
    "Name": "Bergman & Beving AB",
@@ -367,7 +367,7 @@
    "Period": "Q2 22 ",
    "Estimate": "1,83 ",
    "Description": "Q2 2022 Earnings Release",
-   "insref": null
+   "Insref": 1498
  },
  {
    "Name": "OEM International AB",
@@ -377,7 +377,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4143
  },
  {
    "Name": "Profilgruppen AB",
@@ -387,7 +387,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4548
  },
  {
    "Name": "Axfood AB",
@@ -397,7 +397,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,90 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1291
  },
  {
    "Name": "ABB Ltd",
@@ -407,7 +407,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,395 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 730
  },
  {
    "Name": "Haldex AB",
@@ -417,7 +417,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,14 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2832
  },
  {
    "Name": "Volvo AB",
@@ -427,7 +427,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,439 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1146
  },
  {
    "Name": "BioGaia AB",
@@ -437,7 +437,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,82 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1518
  },
  {
    "Name": "BioArctic AB",
@@ -447,7 +447,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,43)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3341916
  },
  {
    "Name": "AQ Group AB",
@@ -457,7 +457,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1097
  },
  {
    "Name": "Dedicare AB",
@@ -467,7 +467,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 198223
  },
  {
    "Name": "Alimak Group AB",
@@ -477,7 +477,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,625 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1095119
  },
  {
    "Name": "Christian Berner Tech Trade AB",
@@ -487,7 +487,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,40 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 940960
  },
  {
    "Name": "VBG Group AB",
@@ -497,7 +497,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6266
  },
  {
    "Name": "Atlas Copco AB",
@@ -507,7 +507,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,186 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1279
  },
  {
    "Name": "Studsvik AB",
@@ -517,7 +517,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,25 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5547
  },
  {
    "Name": "Intrum AB",
@@ -527,7 +527,7 @@
    "Period": "Q3 21 ",
    "Estimate": "6,057 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3266
  },
  {
    "Name": "Collector AB",
@@ -537,7 +537,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1086617
  },
  {
    "Name": "Telia Co AB",
@@ -547,7 +547,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,47 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 928
  },
  {
    "Name": "Epiroc AB",
@@ -557,7 +557,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,503 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3784370
  },
  {
    "Name": "Svedbergs i Dalstorp AB",
@@ -567,7 +567,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,77 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5545
  },
  {
    "Name": "Lime Technologies AB",
@@ -577,7 +577,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4076157
  },
  {
    "Name": "Nyfosa AB",
@@ -587,7 +587,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,58 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4060514
  },
  {
    "Name": "Proact IT Group AB",
@@ -597,7 +597,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,29 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4518
  },
  {
    "Name": "Swedbank AB",
@@ -607,7 +607,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,35 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 105
  },
  {
    "Name": "Nordea Bank Abp",
@@ -617,7 +617,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,226 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1168
  },
  {
    "Name": "Granges AB",
@@ -627,7 +627,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,21 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 930131
  },
  {
    "Name": "Kungsleden AB",
@@ -637,7 +637,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,70 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3385
  },
  {
    "Name": "Alligator Bioscience AB",
@@ -647,7 +647,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2600862
  },
  {
    "Name": "Mycronic AB",
@@ -657,7 +657,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,435 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3679
  },
  {
    "Name": "Hansa Biopharma AB",
@@ -667,7 +667,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(2,46)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2957
  },
  {
    "Name": "Ovzon AB",
@@ -677,7 +677,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,08)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3727475
  },
  {
    "Name": "BE Group AB",
@@ -687,7 +687,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1501
  },
  {
    "Name": "Dios Fastigheter AB",
@@ -697,7 +697,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,86 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2012
  },
  {
    "Name": "KNOW IT AB",
@@ -707,7 +707,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,81 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3396
  },
  {
    "Name": "Wihlborgs Fastigheter AB",
@@ -717,7 +717,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,73 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6421
  },
  {
    "Name": "Munters Group AB",
@@ -727,7 +727,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,17 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3089562
  },
  {
    "Name": "Thule Group AB",
@@ -737,7 +737,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,167 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 958886
  },
  {
    "Name": "AddLife AB",
@@ -747,7 +747,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1327998
  },
  {
    "Name": "Probi AB",
@@ -757,7 +757,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,71 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4546
  },
  {
    "Name": "Midsona AB",
@@ -767,7 +767,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,955 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3701
  },
  {
    "Name": "Nederman Holding AB",
@@ -777,7 +777,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,98 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3952
  },
  {
    "Name": "VNV Global AB",
@@ -787,7 +787,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6318
  },
  {
    "Name": "Saab AB",
@@ -797,7 +797,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,995 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4608
  },
  {
    "Name": "Traction AB",
@@ -807,7 +807,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6102
  },
  {
    "Name": "BillerudKorsnas AB",
@@ -817,7 +817,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,063 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1514
  },
  {
    "Name": "Dometic Group AB",
@@ -827,7 +827,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,533 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1217403
  },
  {
    "Name": "Boliden AB",
@@ -837,7 +837,7 @@
    "Period": "Q3 21 ",
    "Estimate": "8,423 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1360
  },
  {
    "Name": "Essity AB",
@@ -847,7 +847,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,989 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3110542
  },
  {
    "Name": "Pricer AB",
@@ -857,7 +857,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4544
  },
  {
    "Name": "Cellavision AB",
@@ -867,7 +867,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,11 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1697
  },
  {
    "Name": "Midway Holding AB",
@@ -877,7 +877,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3681
  },
  {
    "Name": "Nilorngruppen AB",
@@ -887,7 +887,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,835 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1092049
  },
  {
    "Name": "HMS Networks AB",
@@ -897,7 +897,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,667 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2958
  },
  {
    "Name": "Rottneros AB",
@@ -907,7 +907,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4595
  },
  {
    "Name": "Veoneer Inc",
@@ -917,7 +917,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,769)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3801537
  },
  {
    "Name": "Wallenstam AB",
@@ -927,7 +927,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,993 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6410
  },
  {
    "Name": "GHP Specialty Care AB",
@@ -937,7 +937,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,005 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2764
  },
  {
    "Name": "Duni AB",
@@ -947,7 +947,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,09 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2122
  },
  {
    "Name": "Hexpol AB",
@@ -957,7 +957,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,643 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3017
  },
  {
    "Name": "Doro AB",
@@ -967,7 +967,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2118
  },
  {
    "Name": "Lifco AB",
@@ -977,7 +977,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,395 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 956382
  },
  {
    "Name": "Autoliv Inc",
@@ -987,7 +987,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,275 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3123908
  },
  {
    "Name": "Holmen AB",
@@ -997,7 +997,7 @@
    "Period": "Q3 21 ",
    "Estimate": "5,58 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3013
  },
  {
    "Name": "NP3 Fastigheter AB",
@@ -1007,7 +1007,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 962563
  },
  {
    "Name": "Eniro Group AB",
@@ -1017,7 +1017,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2398
  },
  {
    "Name": "Lagercrantz Group AB",
@@ -1027,7 +1027,7 @@
    "Period": "Q2 22 ",
    "Estimate": "0,62 ",
    "Description": "Q2 2022 Earnings Release",
-   "insref": null
+   "Insref": 3402
  },
  {
    "Name": "SSAB AB",
@@ -1037,7 +1037,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,094 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5361
  },
  {
    "Name": "Ratos AB",
@@ -1047,7 +1047,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,50 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4572
  },
  {
    "Name": "Poolia AB",
@@ -1057,7 +1057,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,22 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4536
  },
  {
    "Name": "AFRY AB",
@@ -1067,7 +1067,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,385 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 906
  },
  {
    "Name": "TietoEVRY Oyj",
@@ -1077,7 +1077,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,408 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 107
  },
  {
    "Name": "Enea AB",
@@ -1087,7 +1087,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,40 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2396
  },
  {
    "Name": "Qliro AB",
@@ -1097,7 +1097,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,49)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5117087
  },
  {
    "Name": "Alfa Laval AB",
@@ -1107,7 +1107,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,96 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1045
  },
  {
    "Name": "Attendo AB",
@@ -1117,7 +1117,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,80 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1219326
  },
  {
    "Name": "Rejlers AB",
@@ -1127,7 +1127,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,80 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4579
  },
  {
    "Name": "Inwido AB",
@@ -1137,7 +1137,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,057 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 924650
  },
  {
    "Name": "Beijer Electronics Group AB",
@@ -1147,7 +1147,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,84 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1505
  },
  {
    "Name": "Sdiptech AB",
@@ -1157,7 +1157,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3080792
  },
  {
    "Name": "Nobia AB",
@@ -1167,7 +1167,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,26 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3956
  },
  {
    "Name": "Betsson AB",
@@ -1177,7 +1177,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,903 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1508
  },
  {
    "Name": "Volati AB",
@@ -1187,7 +1187,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,53 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2609543
  },
  {
    "Name": "Troax Group AB",
@@ -1197,7 +1197,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,175 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1040239
  },
  {
    "Name": "Bravida Holding AB",
@@ -1207,7 +1207,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,13 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1183669
  },
  {
    "Name": "SKF AB",
@@ -1217,7 +1217,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,161 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1828
  },
  {
    "Name": "Resurs Holding AB",
@@ -1227,7 +1227,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,213 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1396442
  },
  {
    "Name": "Nordic Entertainment Group AB",
@@ -1237,7 +1237,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,07 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4294078
  },
  {
    "Name": "Kindred Group PLC",
@@ -1247,7 +1247,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,295 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6192
  },
  {
    "Name": "Assa Abloy AB",
@@ -1257,7 +1257,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,381 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1192
  },
  {
    "Name": "Mildef Group AB",
@@ -1267,7 +1267,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5478934
  },
  {
    "Name": "Swedish Match AB",
@@ -1277,7 +1277,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,968 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5664
  },
  {
    "Name": "Arion Banki HF",
@@ -1287,7 +1287,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3780630
  },
  {
    "Name": "Peab AB",
@@ -1297,7 +1297,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,58 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4525
  },
  {
    "Name": "Trelleborg AB",
@@ -1307,7 +1307,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,367 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 109
  },
  {
    "Name": "Bufab AB",
@@ -1317,7 +1317,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,00 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 769019
  },
  {
    "Name": "XANO Industri AB",
@@ -1327,7 +1327,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6461
  },
  {
    "Name": "IAR Systems Group AB",
@@ -1337,7 +1337,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,12 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3279
  },
  {
    "Name": "Electrolux AB",
@@ -1347,7 +1347,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,032 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2193
  },
  {
    "Name": "Hoist Finance AB",
@@ -1357,7 +1357,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,60 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1037811
  },
  {
    "Name": "Corem Property Group AB",
@@ -1367,7 +1367,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,23 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3452091
  },
  {
    "Name": "Pandox AB",
@@ -1377,7 +1377,7 @@
    "Period": "Q3 21 ",
    "Estimate": "28,155 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1095623
  },
  {
    "Name": "Beijer Alma AB",
@@ -1387,7 +1387,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1502
  },
  {
    "Name": "Lundin Mining Corp",
@@ -1397,7 +1397,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,271 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3446
  },
  {
    "Name": "ICA Gruppen AB",
@@ -1407,7 +1407,7 @@
    "Period": "Q3 21 ",
    "Estimate": "6,068 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 108
  },
  {
    "Name": "Scandic Hotels Group AB",
@@ -1417,7 +1417,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,19 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1220645
  },
  {
    "Name": "MIPS AB",
@@ -1427,7 +1427,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,00 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3014035
  },
  {
    "Name": "Skanska AB",
@@ -1437,7 +1437,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,695 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 360
  },
  {
    "Name": "Tobii AB",
@@ -1447,7 +1447,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,042)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1061816
  },
  {
    "Name": "Evolution AB",
@@ -1457,7 +1457,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,713 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1034561
  },
  {
    "Name": "Catena AB",
@@ -1467,7 +1467,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,445 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1687
  },
  {
    "Name": "Immunicum AB",
@@ -1477,7 +1477,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 567849
  },
  {
    "Name": "Micro Systemation AB",
@@ -1487,7 +1487,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,44 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 45196
  },
  {
    "Name": "CTT Systems AB",
@@ -1497,7 +1497,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1728
  },
  {
    "Name": "FM Mattsson Mora Group AB",
@@ -1507,7 +1507,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3030062
  },
  {
    "Name": "Prevas AB",
@@ -1517,7 +1517,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4543
  },
  {
    "Name": "Serneke Group AB",
@@ -1527,7 +1527,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,40 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2602002
  },
  {
    "Name": "C-RAD AB",
@@ -1537,7 +1537,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,20 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1723
  },
  {
    "Name": "JM AB",
@@ -1547,7 +1547,7 @@
    "Period": "Q3 21 ",
    "Estimate": "4,08 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3318
  },
  {
    "Name": "Indutrade AB",
@@ -1557,7 +1557,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,587 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3273
  },
  {
    "Name": "INVISIO AB",
@@ -1567,7 +1567,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,777 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3299
  },
  {
    "Name": "Biotage AB",
@@ -1577,7 +1577,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 137
  },
  {
    "Name": "Swedish Orphan Biovitrum AB",
@@ -1587,7 +1587,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,79 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1669
  },
  {
    "Name": "Heba Fastighets AB",
@@ -1597,7 +1597,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,80 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2820
  },
  {
    "Name": "Fingerprint Cards AB",
@@ -1607,7 +1607,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2700
  },
  {
    "Name": "Bactiguard Holding AB",
@@ -1617,7 +1617,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,29)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 876121
  },
  {
    "Name": "Nordic Paper Holding AB",
@@ -1627,7 +1627,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,32)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5142918
  },
  {
    "Name": "Bergs Timber AB",
@@ -1637,7 +1637,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1661
  },
  {
    "Name": "Modern Times Group MTG AB",
@@ -1647,7 +1647,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2194
  },
  {
    "Name": "Nolato AB",
@@ -1657,7 +1657,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,987 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4030
  },
  {
    "Name": "Lundin Energy AB",
@@ -1667,7 +1667,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,745 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 356
  },
  {
    "Name": "Millicom International Cellula",
@@ -1677,7 +1677,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,415 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3678
  },
  {
    "Name": "Bonava AB",
@@ -1687,7 +1687,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,43 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1457869
  },
  {
    "Name": "Electrolux Professional AB",
@@ -1697,7 +1697,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,51 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2193
  },
  {
    "Name": "Annehem Fastigheter AB",
@@ -1707,7 +1707,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5210344
  },
  {
    "Name": "AddTech AB",
@@ -1717,7 +1717,7 @@
    "Period": "Q2 22 ",
    "Estimate": "0,95 ",
    "Description": "Q2 2022 Earnings Release",
-   "insref": null
+   "Insref": 902
  },
  {
    "Name": "Hexagon AB",
@@ -1727,7 +1727,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,092 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 104
  },
  {
    "Name": "Xvivo Perfusion AB",
@@ -1737,7 +1737,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,175 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 471845
  },
  {
    "Name": "Arjo AB",
@@ -1747,7 +1747,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,423 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3443467
  },
  {
    "Name": "Brinova Fastigheter AB",
@@ -1757,7 +1757,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2533222
  },
  {
    "Name": "Nokia Oyj",
@@ -1767,7 +1767,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,064 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2187
  },
  {
    "Name": "Karo Pharma AB",
@@ -1777,7 +1777,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3365
  },
  {
    "Name": "BioInvent International AB",
@@ -1787,7 +1787,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(1,71)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1515
  },
  {
    "Name": "Bulten AB",
@@ -1797,7 +1797,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,35 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 203548
  },
  {
    "Name": "Sagax AB",
@@ -1807,7 +1807,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 560558
  },
  {
    "Name": "Cavotec SA",
@@ -1817,7 +1817,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,02 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 274320
  },
  {
    "Name": "Sweco AB",
@@ -1827,7 +1827,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,87 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5637
  },
  {
    "Name": "Mekonomen AB",
@@ -1837,7 +1837,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,54 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3673
  },
  {
    "Name": "Lindab International AB",
@@ -1847,7 +1847,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,545 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3433
  },
  {
    "Name": "Infant Bacterial Therapeutics",
@@ -1857,7 +1857,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(4,45)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1366041
  },
  {
    "Name": "Nordnet AB publ",
@@ -1867,7 +1867,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,555 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5189405
  },
  {
    "Name": "Episurf Medical AB",
@@ -1877,7 +1877,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 154006
  },
  {
    "Name": "Lammhults Design Group AB",
@@ -1887,7 +1887,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3403
  },
  {
    "Name": "BHG Group AB",
@@ -1897,7 +1897,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,20 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3634284
  },
  {
    "Name": "Vitrolife AB",
@@ -1907,7 +1907,7 @@
    "Period": "Q3 21 ",
    "Estimate": "6,355 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6315
  },
  {
    "Name": "Securitas AB",
@@ -1917,7 +1917,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,968 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4937
  },
  {
    "Name": "Svenska Cellulosa AB SCA",
@@ -1927,7 +1927,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,66 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4711
  },
  {
    "Name": "Atvexa AB",
@@ -1937,7 +1937,7 @@
    "Period": "Y 21 ",
    "Estimate": "6,13 ",
    "Description": "Y 2021 Earnings Release",
-   "insref": null
+   "Insref": 3452334
  },
  {
    "Name": "Fenix Outdoor International AG",
@@ -1947,7 +1947,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 879031
  },
  {
    "Name": "Traton SE",
@@ -1957,7 +1957,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,64 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4426296
  },
  {
    "Name": "Cloetta AB",
@@ -1967,7 +1967,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1703
  },
  {
    "Name": "Medcap AB",
@@ -1977,7 +1977,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3561
  },
  {
    "Name": "Projektengagemang Sweden AB",
@@ -1987,7 +1987,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3789303
  },
  {
    "Name": "AAK AB",
@@ -1997,7 +1997,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,055 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 728
  },
  {
    "Name": "Fagerhult AB",
@@ -2007,7 +2007,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2683
  },
  {
    "Name": "AcadeMedia AB",
@@ -2017,7 +2017,7 @@
    "Period": "Q1 22 ",
    "Estimate": "0,90 ",
    "Description": "Q1 2022 Earnings Release",
-   "insref": null
+   "Insref": 1468776
  },
  {
    "Name": "Momentum Group AB",
@@ -2027,7 +2027,7 @@
    "Period": "Q2 22 ",
    "Estimate": "3,50 ",
    "Description": "Q2 2022 Earnings Release",
-   "insref": null
+   "Insref": 3138961
  },
  {
    "Name": "AddNode Group AB",
@@ -2037,7 +2037,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,30 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1094
  },
  {
    "Name": "FormPipe Software AB",
@@ -2047,7 +2047,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,14 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2738
  },
  {
    "Name": "Linc AB",
@@ -2057,7 +2057,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5467534
  },
  {
    "Name": "Xbrane Biopharma AB",
@@ -2067,7 +2067,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(2,32)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1289051
  },
  {
    "Name": "Genova Property Group AB",
@@ -2077,7 +2077,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4985495
  },
  {
    "Name": "Bilia AB",
@@ -2087,7 +2087,7 @@
    "Period": "Q3 21 ",
    "Estimate": "3,54 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1511
  },
  {
    "Name": "Hexatronic Group AB",
@@ -2097,7 +2097,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,695 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 42936
  },
  {
    "Name": "ITAB Shop Concept AB",
@@ -2107,7 +2107,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3298
  },
  {
    "Name": "NCC AB",
@@ -2117,7 +2117,7 @@
    "Period": "Q3 21 ",
    "Estimate": "7,16 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3788
  },
  {
    "Name": "Kabe Group AB",
@@ -2127,7 +2127,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3360
  },
  {
    "Name": "Sinch AB",
@@ -2137,7 +2137,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,168 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1175000
  },
  {
    "Name": "International Petroleum Corp/S",
@@ -2147,7 +2147,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,19 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3048216
  },
  {
    "Name": "Nordic Waterproofing Holding A",
@@ -2157,7 +2157,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1461665
  },
  {
    "Name": "Orexo AB",
@@ -2167,7 +2167,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(1,79)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4325
  },
  {
    "Name": "Moment Group AB",
@@ -2177,7 +2177,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(1,22)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4
  },
  {
    "Name": "SinterCast AB",
@@ -2187,7 +2187,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,44 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5033
  },
  {
    "Name": "Medicover AB",
@@ -2197,7 +2197,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,18 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3094990
  },
  {
    "Name": "Actic Group AB",
@@ -2207,7 +2207,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,58)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3028155
  },
  {
    "Name": "Concentric AB",
@@ -2217,7 +2217,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,13 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 210455
  },
  {
    "Name": "Concordia Maritime AB",
@@ -2227,7 +2227,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1692
  },
  {
    "Name": "Medivir AB",
@@ -2237,7 +2237,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3725
  },
  {
    "Name": "Loomis AB",
@@ -2247,7 +2247,7 @@
    "Period": "Q3 21 ",
    "Estimate": "5,23 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3440
  },
  {
    "Name": "Eltel AB",
@@ -2257,7 +2257,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,035 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1000035
  },
  {
    "Name": "Ambea AB",
@@ -2267,7 +2267,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,78 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3020421
  },
  {
    "Name": "Oncopeptides AB",
@@ -2277,7 +2277,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(3,83)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2964548
  },
  {
    "Name": "Q-Linea AB",
@@ -2287,7 +2287,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4077128
  },
  {
    "Name": "Active Biotech AB",
@@ -2297,7 +2297,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 901
  },
  {
    "Name": "Egetis Therapeutics AB",
@@ -2307,7 +2307,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,17)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 192347
  },
  {
    "Name": "Ascelia Pharma AB",
@@ -2317,7 +2317,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4251818
  },
  {
    "Name": "Hemnet Group AB",
@@ -2327,7 +2327,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5421330
  },
  {
    "Name": "BoneSupport Holding AB",
@@ -2337,7 +2337,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,17)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3138979
  },
  {
    "Name": "Camurus AB",
@@ -2347,7 +2347,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,24)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1221151
  },
  {
    "Name": "Samhallsbyggnadsbolaget i Nord",
@@ -2357,7 +2357,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,975 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 949975
  },
  {
    "Name": "XSpray Pharma AB",
@@ -2367,7 +2367,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 949975
  },
  {
    "Name": "Profoto Holding AB",
@@ -2377,7 +2377,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,71 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5525578
  },
  {
    "Name": "Vicore Pharma Holding AB",
@@ -2387,7 +2387,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1226323
  },
  {
    "Name": "Karnov Group AB",
@@ -2397,7 +2397,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4314374
  },
  {
    "Name": "Railcare Group AB",
@@ -2407,7 +2407,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4561
  },
  {
    "Name": "Etrion Corp",
@@ -2417,7 +2417,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 154007
  },
  {
    "Name": "G5 Entertainment AB",
@@ -2427,7 +2427,7 @@
    "Period": "Q3 21 ",
    "Estimate": "6,94 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2750
  },
  {
    "Name": "New Wave Group AB",
@@ -2437,7 +2437,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3944
  },
  {
    "Name": "ZetaDisplay AB",
@@ -2447,7 +2447,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 192067
  },
  {
    "Name": "Lundin Gold Inc",
@@ -2457,7 +2457,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,206 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 974523
  },
  {
    "Name": "Investment AB Latour",
@@ -2467,7 +2467,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3411
  },
  {
    "Name": "Net Insight AB",
@@ -2477,7 +2477,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3939
  },
  {
    "Name": "Instalco AB",
@@ -2487,7 +2487,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,725 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3074594
  },
  {
    "Name": "B3 Consulting Group AB",
@@ -2497,7 +2497,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1465141
  },
  {
    "Name": "Infrea AB",
@@ -2507,7 +2507,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3677231
  },
  {
    "Name": "Gaming Innovation Group Inc",
@@ -2517,7 +2517,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,02 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4295178
  },
  {
    "Name": "Arctic Paper SA",
@@ -2527,7 +2527,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 513830
  },
  {
    "Name": "Cint Group AB",
@@ -2537,7 +2537,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,017 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5315210
  },
  {
    "Name": "Moberg Pharma AB",
@@ -2547,7 +2547,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 204778
  },
  {
    "Name": "Hanza Holding AB",
@@ -2557,7 +2557,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,67 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 876117
  },
  {
    "Name": "Duroc AB",
@@ -2567,7 +2567,7 @@
    "Period": "Q1 22 ",
    "Estimate": "",
    "Description": "Q1 2022 Earnings Release",
-   "insref": null
+   "Insref": 2123
  },
  {
    "Name": "Tethys Oil AB",
@@ -2577,7 +2577,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5903
  },
  {
    "Name": "Stendorren Fastigheter AB",
@@ -2587,7 +2587,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,70 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 178712
  },
  {
    "Name": "Rvrc Holding AB",
@@ -2597,7 +2597,7 @@
    "Period": "Q1 22 ",
    "Estimate": "",
    "Description": "Q1 2022 Earnings Release",
-   "insref": null
+   "Insref": 5500235
  },
  {
    "Name": "Coor Service Management Holdin",
@@ -2607,7 +2607,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,26 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1094577
  },
  {
    "Name": "Boozt AB",
@@ -2617,7 +2617,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,355 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3101734
  },
  {
    "Name": "IRRAS AB",
@@ -2627,7 +2627,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,42)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3415255
  },
  {
    "Name": "WastBygg AB",
@@ -2637,7 +2637,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5133399
  },
  {
    "Name": "Eastnine AB",
@@ -2647,7 +2647,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2295
  },
  {
    "Name": "Fastighets AB Trianon",
@@ -2657,7 +2657,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,70 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3140714
  },
  {
    "Name": "BTS Group AB",
@@ -2667,7 +2667,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,10 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1666
  },
  {
    "Name": "Boule Diagnostics AB",
@@ -2677,7 +2677,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,40 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 89922
  },
  {
    "Name": "Lucara Diamond Corp",
@@ -2687,7 +2687,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,019 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 291181
  },
  {
    "Name": "TradeDoubler AB",
@@ -2697,7 +2697,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6103
  },
  {
    "Name": "Arise AB",
@@ -2707,7 +2707,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,68 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 94505
  },
  {
    "Name": "Stillfront Group AB",
@@ -2717,7 +2717,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,584 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1224945
  },
  {
    "Name": "BICO Group AB",
@@ -2727,7 +2727,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,40)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2573813
  },
  {
    "Name": "Irlab Therapeutics AB",
@@ -2737,7 +2737,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2974094
  },
  {
    "Name": "Green Landscaping Group AB",
@@ -2747,7 +2747,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,72 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3628701
  },
  {
    "Name": "Josemaria Resources Inc",
@@ -2757,7 +2757,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 876119
  },
  {
    "Name": "Catella AB",
@@ -2767,7 +2767,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,17 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4785
  },
  {
    "Name": "Readly International AB",
@@ -2777,7 +2777,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(1,24)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5089710
  },
  {
    "Name": "Humana AB",
@@ -2787,7 +2787,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,235 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1359612
  },
  {
    "Name": "Arla Plast AB",
@@ -2797,7 +2797,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,44 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5462470
  },
  {
    "Name": "Pierce Group AB",
@@ -2807,7 +2807,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,33 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5373518
  },
  {
    "Name": "Viking Supply Ships AB",
@@ -2817,7 +2817,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4555
  },
  {
    "Name": "Bure Equity AB",
@@ -2827,7 +2827,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1667
  },
  {
    "Name": "GARO AB",
@@ -2837,7 +2837,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,32 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1327997
  },
  {
    "Name": "Fastighets AB Balder",
@@ -2847,7 +2847,7 @@
    "Period": "Q3 21 ",
    "Estimate": "6,165 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1495
  },
  {
    "Name": "Oscar Properties Holding AB",
@@ -2857,7 +2857,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 764793
  },
  {
    "Name": "Novotek AB",
@@ -2867,7 +2867,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4048
  },
  {
    "Name": "NGS Group AB",
@@ -2877,7 +2877,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 45182
  },
  {
    "Name": "Hufvudstaden AB",
@@ -2887,7 +2887,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,27 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3019
  },
  {
    "Name": "Cibus Nordic Real Estate AB",
@@ -2897,7 +2897,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,25 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3600681
  },
  {
    "Name": "John Mattson Fastighetsforetag",
@@ -2907,7 +2907,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,00 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4387269
  },
  {
    "Name": "Bong AB",
@@ -2917,7 +2917,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1652
  },
  {
    "Name": "Cantargia AB",
@@ -2927,7 +2927,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,91)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1032836
  },
  {
    "Name": "LeoVegas AB",
@@ -2937,7 +2937,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,10 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1329009
  },
  {
    "Name": "Empir Group AB",
@@ -2947,7 +2947,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,44)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3698
  },
  {
    "Name": "Endomines AB",
@@ -2957,7 +2957,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,12)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2395
  },
  {
    "Name": "Immunovia AB",
@@ -2967,7 +2967,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(5,48)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1219873
  },
  {
    "Name": "Stockwik Forvaltning AB",
@@ -2977,7 +2977,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,92 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3688
  },
  {
    "Name": "Precise Biometrics AB",
@@ -2987,7 +2987,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,004)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4542
  },
  {
    "Name": "Ortivus AB",
@@ -2997,7 +2997,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4324
  },
  {
    "Name": "Starbreeze AB",
@@ -3007,7 +3007,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5386
  },
  {
    "Name": "Wise Group AB",
@@ -3017,7 +3017,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 6426
  },
  {
    "Name": "K-fast Holding AB",
@@ -3027,7 +3027,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4609519
  },
  {
    "Name": "Sleep Cycle AB",
@@ -3037,7 +3037,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,20 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5484204
  },
  {
    "Name": "AstraZeneca PLC",
@@ -3047,7 +3047,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,274 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1295
  },
  {
    "Name": "NCAB Group AB",
@@ -3057,7 +3057,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3759979
  },
  {
    "Name": "Ferronordic AB",
@@ -3067,7 +3067,7 @@
    "Period": "Q3 21 ",
    "Estimate": "6,38 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3364577
  },
  {
    "Name": "Sivers Semiconductors AB",
@@ -3077,7 +3077,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 205220
  },
  {
    "Name": "Image Systems AB",
@@ -3087,7 +3087,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2124
  },
  {
    "Name": "Scandi Standard AB",
@@ -3097,7 +3097,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,135 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 879314
  },
  {
    "Name": "Senzime AB",
@@ -3107,7 +3107,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4963
  },
  {
    "Name": "Africa Oil Corp",
@@ -3117,7 +3117,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,07 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 145168
  },
  {
    "Name": "Electra Gruppen AB",
@@ -3127,7 +3127,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2330
  },
  {
    "Name": "Catena Media PLC",
@@ -3137,7 +3137,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,10 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1295672
  },
  {
    "Name": "Better Collective A/S",
@@ -3147,7 +3147,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,18 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3763659
  },
  {
    "Name": "Nibe Industrier AB",
@@ -3157,7 +3157,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,475 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3947
  },
  {
    "Name": "RaySearch Laboratories AB",
@@ -3167,7 +3167,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,60)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4573
  },
  {
    "Name": "Saniona AB",
@@ -3177,7 +3177,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 818216
  },
  {
    "Name": "Balco Group AB",
@@ -3187,7 +3187,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,045 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3333283
  },
  {
    "Name": "Eolus Vind AB",
@@ -3197,7 +3197,7 @@
    "Period": "Q3 21 ",
    "Estimate": "2,63 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 42492
  },
  {
    "Name": "Calliditas Therapeutics AB",
@@ -3207,7 +3207,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(3,50)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4893174
  },
  {
    "Name": "Oasmia Pharmaceutical AB",
@@ -3217,7 +3217,7 @@
    "Period": "Q3 21 ",
    "Estimate": "(0,09)",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 45215
  },
  {
    "Name": "Fasadgruppen Group AB",
@@ -3227,7 +3227,7 @@
    "Period": "Q3 21 ",
    "Estimate": "1,65 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 5207080
  },
  {
    "Name": "Karolinska Development AB",
@@ -3237,7 +3237,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 196595
  },
  {
    "Name": "Bjorn Borg AB",
@@ -3247,7 +3247,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1657
  },
  {
    "Name": "Abliva AB",
@@ -3257,7 +3257,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4052
  },
  {
    "Name": "Maha Energy AB",
@@ -3267,7 +3267,7 @@
    "Period": "Q3 21 ",
    "Estimate": "0,11 ",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 2199139
  },
  {
    "Name": "Multiq International AB",
@@ -3277,7 +3277,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3724
  },
  {
    "Name": "Sensys Gatso Group AB",
@@ -3287,7 +3287,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4959
  },
  {
    "Name": "L E Lundbergforetagen AB",
@@ -3297,7 +3297,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3448
  },
  {
    "Name": "Malmbergs Elektriska AB",
@@ -3307,7 +3307,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 3664
  },
  {
    "Name": "Elekta AB",
@@ -3317,7 +3317,7 @@
    "Period": "Q2 22 ",
    "Estimate": "0,88 ",
    "Description": "Q2 2022 Earnings Release",
-   "insref": null
+   "Insref": 2327
  },
  {
    "Name": "Strax AB",
@@ -3327,7 +3327,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4036
  },
  {
    "Name": "Odd Molly International AB",
@@ -3337,7 +3337,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 4080
  },
  {
    "Name": "Anoto Group AB",
@@ -3347,7 +3347,7 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1095
  },
  {
    "Name": "SAS AB",
@@ -3357,7 +3357,7 @@
    "Period": "Y 21 ",
    "Estimate": "(0,867)",
    "Description": "Y 2021 Earnings Release",
-   "insref": null
+   "Insref": 4705
  },
  {
    "Name": "Concejo AB",
@@ -3367,6 +3367,6 @@
    "Period": "Q3 21 ",
    "Estimate": "",
    "Description": "Q3 2021 Earnings Release",
-   "insref": null
+   "Insref": 1717
  }
 ]
