@@ -1,5 +1,6 @@
 [
  {
+   "DisplayName": "Nobina AB",
    "Name": "Nobina AB",
    "Ticker": "NOBINA SS",
    "Date": "2021-09-30",
@@ -10,6 +11,7 @@
    "Insref": 1095624
  },
  {
+   "DisplayName": "H & M Hennes & Mauritz AB",
    "Name": "H & M Hennes & Mauritz AB",
    "Ticker": "HMB SS",
    "Date": "2021-09-30",
@@ -20,6 +22,7 @@
    "Insref": 2926
  },
  {
+   "DisplayName": "SkiStar AB",
    "Name": "SkiStar AB",
    "Ticker": "SKISB SS",
    "Date": "2021-10-01",
@@ -30,6 +33,7 @@
    "Insref": 5234
  },
  {
+   "DisplayName": "Dustin Group AB",
    "Name": "Dustin Group AB",
    "Ticker": "DUST SS",
    "Date": "2021-10-06",
@@ -40,6 +44,7 @@
    "Insref": 1004432
  },
  {
+   "DisplayName": "Investment AB Oresund",
    "Name": "Investment AB Oresund",
    "Ticker": "ORES SS",
    "Date": "2021-10-11",
@@ -50,6 +55,7 @@
    "Insref": 4317
  },
  {
+   "DisplayName": "Industrivarden AB",
    "Name": "Industrivarden AB",
    "Ticker": "INDUA SS",
    "Date": "2021-10-11",
@@ -60,6 +66,7 @@
    "Insref": 3275
  },
  {
+   "DisplayName": "Vitec Software Group AB",
    "Name": "Vitec Software Group AB",
    "Ticker": "VITB SS",
    "Date": "2021-10-14",
@@ -70,26 +77,7 @@
    "Insref": 6314
  },
  {
-   "Name": "Rizzo Group AB",
-   "Ticker": "RIZZOB SS",
-   "Date": "2021-10-14",
-   "Time": "",
-   "Period": "Y 21 ",
-   "Estimate": "",
-   "Description": "Y 2021 Earnings Release",
-   "Insref": 20236
- },
- {
-   "Name": "Elanders AB",
-   "Ticker": "ELANB SS",
-   "Date": "2021-10-14",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "2,89 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2328
- },
- {
+   "DisplayName": "Atrium Ljungberg AB",
    "Name": "Atrium Ljungberg AB",
    "Ticker": "ATRLJB SS",
    "Date": "2021-10-15",
@@ -100,6 +88,7 @@
    "Insref": 3435
  },
  {
+   "DisplayName": "Avanza Bank Holding AB",
    "Name": "Avanza Bank Holding AB",
    "Ticker": "AZA SS",
    "Date": "2021-10-18",
@@ -110,6 +99,7 @@
    "Insref": 1294
  },
  {
+   "DisplayName": "Sandvik AB",
    "Name": "Sandvik AB",
    "Ticker": "SAND SS",
    "Date": "2021-10-18",
@@ -120,6 +110,7 @@
    "Insref": 2956
  },
  {
+   "DisplayName": "Investor AB",
    "Name": "Investor AB",
    "Ticker": "INVEB SS",
    "Date": "2021-10-18",
@@ -130,16 +121,7 @@
    "Insref": 354
  },
  {
-   "Name": "TF Bank AB",
-   "Ticker": "TFBANK SS",
-   "Date": "2021-10-18",
-   "Time": "Aft-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "3,30 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1467015
- },
- {
+   "DisplayName": "Tele2 AB",
    "Name": "Tele2 AB",
    "Ticker": "TEL2B SS",
    "Date": "2021-10-19",
@@ -150,16 +132,7 @@
    "Insref": 1862
  },
  {
-   "Name": "Semcon AB",
-   "Ticker": "SEMC SS",
-   "Date": "2021-10-19",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "1,84 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4958
- },
- {
+   "DisplayName": "Platzer Fastigheter Holding AB",
    "Name": "Platzer Fastigheter Holding AB",
    "Ticker": "PLAZB SS",
    "Date": "2021-10-19",
@@ -170,16 +143,7 @@
    "Insref": 722421
  },
  {
-   "Name": "Note AB",
-   "Ticker": "NOTE SS",
-   "Date": "2021-10-19",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4035
- },
- {
+   "DisplayName": "Telefonaktiebolaget LM Ericsso",
    "Name": "Telefonaktiebolaget LM Ericsso",
    "Ticker": "ERICB SS",
    "Date": "2021-10-19",
@@ -190,6 +154,7 @@
    "Insref": 772
  },
  {
+   "DisplayName": "Beijer Ref AB",
    "Name": "Beijer Ref AB",
    "Ticker": "BEIJB SS",
    "Date": "2021-10-19",
@@ -200,6 +165,7 @@
    "Insref": 1503
  },
  {
+   "DisplayName": "FastPartner AB",
    "Name": "FastPartner AB",
    "Ticker": "FPARA SS",
    "Date": "2021-10-19",
@@ -210,6 +176,7 @@
    "Insref": 4622427
  },
  {
+   "DisplayName": "Castellum AB",
    "Name": "Castellum AB",
    "Ticker": "CAST SS",
    "Date": "2021-10-19",
@@ -220,6 +187,7 @@
    "Insref": 1686
  },
  {
+   "DisplayName": "Byggmax Group AB",
    "Name": "Byggmax Group AB",
    "Ticker": "BMAX SS",
    "Date": "2021-10-19",
@@ -230,6 +198,7 @@
    "Insref": 116670
  },
  {
+   "DisplayName": "Skandinaviska Enskilda Banken",
    "Name": "Skandinaviska Enskilda Banken",
    "Ticker": "SEBA SS",
    "Date": "2021-10-20",
@@ -240,6 +209,7 @@
    "Insref": 4803
  },
  {
+   "DisplayName": "Stora Enso Oyj",
    "Name": "Stora Enso Oyj",
    "Ticker": "STERV FH",
    "Date": "2021-10-20",
@@ -250,6 +220,7 @@
    "Insref": 5394
  },
  {
+   "DisplayName": "Fabege AB",
    "Name": "Fabege AB",
    "Ticker": "FABG SS",
    "Date": "2021-10-20",
@@ -260,26 +231,7 @@
    "Insref": 2682
  },
  {
-   "Name": "Nelly Group AB",
-   "Ticker": "NELLY SS",
-   "Date": "2021-10-20",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 162857
- },
- {
-   "Name": "Besqab AB",
-   "Ticker": "BESQ SS",
-   "Date": "2021-10-20",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 868403
- },
- {
+   "DisplayName": "Kinnevik AB",
    "Name": "Kinnevik AB",
    "Ticker": "KINVB SS",
    "Date": "2021-10-20",
@@ -290,6 +242,7 @@
    "Insref": 924
  },
  {
+   "DisplayName": "Husqvarna AB",
    "Name": "Husqvarna AB",
    "Ticker": "HUSQB SS",
    "Date": "2021-10-20",
@@ -300,26 +253,7 @@
    "Insref": 3047
  },
  {
-   "Name": "K2A Knaust & Andersson Fastigh",
-   "Ticker": "K2AB SS",
-   "Date": "2021-10-20",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4413119
- },
- {
-   "Name": "Softronic AB",
-   "Ticker": "SOFB SS",
-   "Date": "2021-10-20",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5244
- },
- {
+   "DisplayName": "Getinge AB",
    "Name": "Getinge AB",
    "Ticker": "GETIB SS",
    "Date": "2021-10-20",
@@ -330,16 +264,7 @@
    "Insref": 1588
  },
  {
-   "Name": "eWork Group AB",
-   "Ticker": "EWRK SS",
-   "Date": "2021-10-20",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,08 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2678
- },
- {
+   "DisplayName": "Svenska Handelsbanken AB",
    "Name": "Svenska Handelsbanken AB",
    "Ticker": "SHBA SS",
    "Date": "2021-10-20",
@@ -350,26 +275,7 @@
    "Insref": 4966
  },
  {
-   "Name": "Elos Medtech AB",
-   "Ticker": "ELOSB SS",
-   "Date": "2021-10-20",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "2,38 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2334
- },
- {
-   "Name": "Bergman & Beving AB",
-   "Ticker": "BERGB SS",
-   "Date": "2021-10-20",
-   "Time": "Bef-mkt",
-   "Period": "Q2 22 ",
-   "Estimate": "1,83 ",
-   "Description": "Q2 2022 Earnings Release",
-   "Insref": 1498
- },
- {
+   "DisplayName": "OEM International AB",
    "Name": "OEM International AB",
    "Ticker": "OEMB SS",
    "Date": "2021-10-20",
@@ -380,16 +286,7 @@
    "Insref": 4143
  },
  {
-   "Name": "Profilgruppen AB",
-   "Ticker": "PROFB SS",
-   "Date": "2021-10-20",
-   "Time": "14:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4548
- },
- {
+   "DisplayName": "Axfood AB",
    "Name": "Axfood AB",
    "Ticker": "AXFO SS",
    "Date": "2021-10-21",
@@ -400,6 +297,7 @@
    "Insref": 1291
  },
  {
+   "DisplayName": "ABB Ltd",
    "Name": "ABB Ltd",
    "Ticker": "ABBN SW",
    "Date": "2021-10-21",
@@ -410,6 +308,7 @@
    "Insref": 730
  },
  {
+   "DisplayName": "Haldex AB",
    "Name": "Haldex AB",
    "Ticker": "HLDX SS",
    "Date": "2021-10-21",
@@ -420,6 +319,7 @@
    "Insref": 2832
  },
  {
+   "DisplayName": "Volvo AB",
    "Name": "Volvo AB",
    "Ticker": "VOLVB SS",
    "Date": "2021-10-21",
@@ -430,6 +330,7 @@
    "Insref": 1146
  },
  {
+   "DisplayName": "BioGaia AB",
    "Name": "BioGaia AB",
    "Ticker": "BIOGB SS",
    "Date": "2021-10-21",
@@ -440,6 +341,7 @@
    "Insref": 1518
  },
  {
+   "DisplayName": "BioArctic AB",
    "Name": "BioArctic AB",
    "Ticker": "BIOAB SS",
    "Date": "2021-10-21",
@@ -450,26 +352,7 @@
    "Insref": 3341916
  },
  {
-   "Name": "AQ Group AB",
-   "Ticker": "AQ SS",
-   "Date": "2021-10-21",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1097
- },
- {
-   "Name": "Dedicare AB",
-   "Ticker": "DEDI SS",
-   "Date": "2021-10-21",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 198223
- },
- {
+   "DisplayName": "Alimak Group AB",
    "Name": "Alimak Group AB",
    "Ticker": "ALIG SS",
    "Date": "2021-10-21",
@@ -480,26 +363,7 @@
    "Insref": 1095119
  },
  {
-   "Name": "Christian Berner Tech Trade AB",
-   "Ticker": "CBTTB SS",
-   "Date": "2021-10-21",
-   "Time": "12:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,40 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 940960
- },
- {
-   "Name": "VBG Group AB",
-   "Ticker": "VBGB SS",
-   "Date": "2021-10-21",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 6266
- },
- {
+   "DisplayName": "Atlas Copco AB",
    "Name": "Atlas Copco AB",
    "Ticker": "ATCOA SS",
    "Date": "2021-10-21",
@@ -510,16 +374,7 @@
    "Insref": 1279
  },
  {
-   "Name": "Studsvik AB",
-   "Ticker": "SVIK SS",
-   "Date": "2021-10-21",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,25 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5547
- },
- {
+   "DisplayName": "Intrum AB",
    "Name": "Intrum AB",
    "Ticker": "INTRUM SS",
    "Date": "2021-10-21",
@@ -530,16 +385,7 @@
    "Insref": 3266
  },
  {
-   "Name": "Collector AB",
-   "Ticker": "COLL SS",
-   "Date": "2021-10-21",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1086617
- },
- {
+   "DisplayName": "Telia Co AB",
    "Name": "Telia Co AB",
    "Ticker": "TELIA SS",
    "Date": "2021-10-21",
@@ -550,6 +396,7 @@
    "Insref": 928
  },
  {
+   "DisplayName": "Epiroc AB",
    "Name": "Epiroc AB",
    "Ticker": "EPIA SS",
    "Date": "2021-10-21",
@@ -560,26 +407,7 @@
    "Insref": 3784370
  },
  {
-   "Name": "Svedbergs i Dalstorp AB",
-   "Ticker": "SVEDB SS",
-   "Date": "2021-10-21",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,77 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5545
- },
- {
-   "Name": "Lime Technologies AB",
-   "Ticker": "LIME SS",
-   "Date": "2021-10-21",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4076157
- },
- {
+   "DisplayName": "Nyfosa AB",
    "Name": "Nyfosa AB",
    "Ticker": "NYF SS",
    "Date": "2021-10-21",
@@ -590,16 +418,7 @@
    "Insref": 4060514
  },
  {
-   "Name": "Proact IT Group AB",
-   "Ticker": "PACT SS",
-   "Date": "2021-10-21",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "4,29 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4518
- },
- {
+   "DisplayName": "Swedbank AB",
    "Name": "Swedbank AB",
    "Ticker": "SWEDA SS",
    "Date": "2021-10-21",
@@ -610,6 +429,7 @@
    "Insref": 105
  },
  {
+   "DisplayName": "Nordea Bank Abp",
    "Name": "Nordea Bank Abp",
    "Ticker": "NDA SS",
    "Date": "2021-10-21",
@@ -620,6 +440,7 @@
    "Insref": 1168
  },
  {
+   "DisplayName": "Granges AB",
    "Name": "Granges AB",
    "Ticker": "GRNG SS",
    "Date": "2021-10-21",
@@ -630,6 +451,7 @@
    "Insref": 930131
  },
  {
+   "DisplayName": "Kungsleden AB",
    "Name": "Kungsleden AB",
    "Ticker": "KLED SS",
    "Date": "2021-10-21",
@@ -640,16 +462,7 @@
    "Insref": 3385
  },
  {
-   "Name": "Alligator Bioscience AB",
-   "Ticker": "ATORX SS",
-   "Date": "2021-10-21",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2600862
- },
- {
+   "DisplayName": "Mycronic AB",
    "Name": "Mycronic AB",
    "Ticker": "MYCR SS",
    "Date": "2021-10-21",
@@ -660,36 +473,7 @@
    "Insref": 3679
  },
  {
-   "Name": "Hansa Biopharma AB",
-   "Ticker": "HNSA SS",
-   "Date": "2021-10-21",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(2,46)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2957
- },
- {
-   "Name": "Ovzon AB",
-   "Ticker": "OVZON SS",
-   "Date": "2021-10-21",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,08)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3727475
- },
- {
-   "Name": "BE Group AB",
-   "Ticker": "BEGR SS",
-   "Date": "2021-10-21",
-   "Time": "14:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1501
- },
- {
+   "DisplayName": "Dios Fastigheter AB",
    "Name": "Dios Fastigheter AB",
    "Ticker": "DIOS SS",
    "Date": "2021-10-22",
@@ -700,16 +484,7 @@
    "Insref": 2012
  },
  {
-   "Name": "KNOW IT AB",
-   "Ticker": "KNOW SS",
-   "Date": "2021-10-22",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "2,81 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3396
- },
- {
+   "DisplayName": "Wihlborgs Fastigheter AB",
    "Name": "Wihlborgs Fastigheter AB",
    "Ticker": "WIHL SS",
    "Date": "2021-10-22",
@@ -720,6 +495,7 @@
    "Insref": 6421
  },
  {
+   "DisplayName": "Munters Group AB",
    "Name": "Munters Group AB",
    "Ticker": "MTRS SS",
    "Date": "2021-10-22",
@@ -730,6 +506,7 @@
    "Insref": 3089562
  },
  {
+   "DisplayName": "Thule Group AB",
    "Name": "Thule Group AB",
    "Ticker": "THULE SS",
    "Date": "2021-10-22",
@@ -740,6 +517,7 @@
    "Insref": 958886
  },
  {
+   "DisplayName": "AddLife AB",
    "Name": "AddLife AB",
    "Ticker": "ALIFB SS",
    "Date": "2021-10-22",
@@ -750,36 +528,7 @@
    "Insref": 1327998
  },
  {
-   "Name": "Probi AB",
-   "Ticker": "PROB SS",
-   "Date": "2021-10-22",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "2,71 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4546
- },
- {
-   "Name": "Midsona AB",
-   "Ticker": "MSONA SS",
-   "Date": "2021-10-22",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,955 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3701
- },
- {
-   "Name": "Nederman Holding AB",
-   "Ticker": "NMAN SS",
-   "Date": "2021-10-22",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "1,98 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3952
- },
- {
+   "DisplayName": "VNV Global AB",
    "Name": "VNV Global AB",
    "Ticker": "VNV SS",
    "Date": "2021-10-22",
@@ -790,6 +539,7 @@
    "Insref": 6318
  },
  {
+   "DisplayName": "Saab AB",
    "Name": "Saab AB",
    "Ticker": "SAABB SS",
    "Date": "2021-10-22",
@@ -800,16 +550,7 @@
    "Insref": 4608
  },
  {
-   "Name": "Traction AB",
-   "Ticker": "TRACB SS",
-   "Date": "2021-10-22",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 6102
- },
- {
+   "DisplayName": "BillerudKorsnas AB",
    "Name": "BillerudKorsnas AB",
    "Ticker": "BILL SS",
    "Date": "2021-10-22",
@@ -820,6 +561,7 @@
    "Insref": 1514
  },
  {
+   "DisplayName": "Dometic Group AB",
    "Name": "Dometic Group AB",
    "Ticker": "DOM SS",
    "Date": "2021-10-22",
@@ -830,6 +572,7 @@
    "Insref": 1217403
  },
  {
+   "DisplayName": "Boliden AB",
    "Name": "Boliden AB",
    "Ticker": "BOL SS",
    "Date": "2021-10-22",
@@ -840,6 +583,7 @@
    "Insref": 1360
  },
  {
+   "DisplayName": "Essity AB",
    "Name": "Essity AB",
    "Ticker": "ESSITYA SS",
    "Date": "2021-10-22",
@@ -850,16 +594,7 @@
    "Insref": 3110542
  },
  {
-   "Name": "Pricer AB",
-   "Ticker": "PRICB SS",
-   "Date": "2021-10-22",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4544
- },
- {
+   "DisplayName": "Cellavision AB",
    "Name": "Cellavision AB",
    "Ticker": "CEVI SS",
    "Date": "2021-10-22",
@@ -870,26 +605,7 @@
    "Insref": 1697
  },
  {
-   "Name": "Midway Holding AB",
-   "Ticker": "MIDWB SS",
-   "Date": "2021-10-22",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3681
- },
- {
-   "Name": "Nilorngruppen AB",
-   "Ticker": "NILB SS",
-   "Date": "2021-10-22",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,835 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1092049
- },
- {
+   "DisplayName": "HMS Networks AB",
    "Name": "HMS Networks AB",
    "Ticker": "HMS SS",
    "Date": "2021-10-22",
@@ -900,16 +616,7 @@
    "Insref": 2958
  },
  {
-   "Name": "Rottneros AB",
-   "Ticker": "RROS SS",
-   "Date": "2021-10-22",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4595
- },
- {
+   "DisplayName": "Veoneer Inc",
    "Name": "Veoneer Inc",
    "Ticker": "VNE US",
    "Date": "2021-10-22",
@@ -920,6 +627,7 @@
    "Insref": 3801537
  },
  {
+   "DisplayName": "Wallenstam AB",
    "Name": "Wallenstam AB",
    "Ticker": "WALLB SS",
    "Date": "2021-10-22",
@@ -930,26 +638,7 @@
    "Insref": 6410
  },
  {
-   "Name": "GHP Specialty Care AB",
-   "Ticker": "GHP SS",
-   "Date": "2021-10-22",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,005 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2764
- },
- {
-   "Name": "Duni AB",
-   "Ticker": "DUNI SS",
-   "Date": "2021-10-22",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "2,09 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2122
- },
- {
+   "DisplayName": "Hexpol AB",
    "Name": "Hexpol AB",
    "Ticker": "HPOLB SS",
    "Date": "2021-10-22",
@@ -960,16 +649,7 @@
    "Insref": 3017
  },
  {
-   "Name": "Doro AB",
-   "Ticker": "DORO SS",
-   "Date": "2021-10-22",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2118
- },
- {
+   "DisplayName": "Lifco AB",
    "Name": "Lifco AB",
    "Ticker": "LIFCOB SS",
    "Date": "2021-10-22",
@@ -980,6 +660,7 @@
    "Insref": 956382
  },
  {
+   "DisplayName": "Autoliv Inc",
    "Name": "Autoliv Inc",
    "Ticker": "ALV US",
    "Date": "2021-10-22",
@@ -990,6 +671,7 @@
    "Insref": 3123908
  },
  {
+   "DisplayName": "Holmen AB",
    "Name": "Holmen AB",
    "Ticker": "HOLMB SS",
    "Date": "2021-10-22",
@@ -1000,6 +682,7 @@
    "Insref": 3013
  },
  {
+   "DisplayName": "NP3 Fastigheter AB",
    "Name": "NP3 Fastigheter AB",
    "Ticker": "NP3 SS",
    "Date": "2021-10-22",
@@ -1010,16 +693,7 @@
    "Insref": 962563
  },
  {
-   "Name": "Eniro Group AB",
-   "Ticker": "ENRO SS",
-   "Date": "2021-10-22",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2398
- },
- {
+   "DisplayName": "Lagercrantz Group AB",
    "Name": "Lagercrantz Group AB",
    "Ticker": "LAGRB SS",
    "Date": "2021-10-22",
@@ -1030,6 +704,7 @@
    "Insref": 3402
  },
  {
+   "DisplayName": "SSAB AB",
    "Name": "SSAB AB",
    "Ticker": "SSABA SS",
    "Date": "2021-10-25",
@@ -1040,6 +715,7 @@
    "Insref": 5361
  },
  {
+   "DisplayName": "Ratos AB",
    "Name": "Ratos AB",
    "Ticker": "RATOB SS",
    "Date": "2021-10-25",
@@ -1050,16 +726,7 @@
    "Insref": 4572
  },
  {
-   "Name": "Poolia AB",
-   "Ticker": "POOLB SS",
-   "Date": "2021-10-26",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,22 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4536
- },
- {
+   "DisplayName": "AFRY AB",
    "Name": "AFRY AB",
    "Ticker": "AFRY SS",
    "Date": "2021-10-26",
@@ -1070,6 +737,7 @@
    "Insref": 906
  },
  {
+   "DisplayName": "TietoEVRY Oyj",
    "Name": "TietoEVRY Oyj",
    "Ticker": "TIETO FH",
    "Date": "2021-10-26",
@@ -1080,26 +748,7 @@
    "Insref": 107
  },
  {
-   "Name": "Enea AB",
-   "Ticker": "ENEA SS",
-   "Date": "2021-10-26",
-   "Time": "07:20",
-   "Period": "Q3 21 ",
-   "Estimate": "1,40 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2396
- },
- {
-   "Name": "Qliro AB",
-   "Ticker": "QLIRO SS",
-   "Date": "2021-10-26",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,49)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5117087
- },
- {
+   "DisplayName": "Alfa Laval AB",
    "Name": "Alfa Laval AB",
    "Ticker": "ALFA SS",
    "Date": "2021-10-26",
@@ -1110,46 +759,7 @@
    "Insref": 1045
  },
  {
-   "Name": "Attendo AB",
-   "Ticker": "ATT SS",
-   "Date": "2021-10-26",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,80 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1219326
- },
- {
-   "Name": "Rejlers AB",
-   "Ticker": "REJLB SS",
-   "Date": "2021-10-26",
-   "Time": "13:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,80 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4579
- },
- {
-   "Name": "Inwido AB",
-   "Ticker": "INWI SS",
-   "Date": "2021-10-26",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "3,057 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 924650
- },
- {
-   "Name": "Beijer Electronics Group AB",
-   "Ticker": "BELE SS",
-   "Date": "2021-10-26",
-   "Time": "13:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,84 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1505
- },
- {
+   "DisplayName": "Sdiptech AB",
    "Name": "Sdiptech AB",
    "Ticker": "SDIPB SS",
    "Date": "2021-10-26",
@@ -1160,6 +770,7 @@
    "Insref": 3080792
  },
  {
+   "DisplayName": "Nobia AB",
    "Name": "Nobia AB",
    "Ticker": "NOBI SS",
    "Date": "2021-10-26",
@@ -1170,6 +781,7 @@
    "Insref": 3956
  },
  {
+   "DisplayName": "Betsson AB",
    "Name": "Betsson AB",
    "Ticker": "BETSB SS",
    "Date": "2021-10-26",
@@ -1180,6 +792,7 @@
    "Insref": 1508
  },
  {
+   "DisplayName": "Volati AB",
    "Name": "Volati AB",
    "Ticker": "VOLO SS",
    "Date": "2021-10-26",
@@ -1190,6 +803,7 @@
    "Insref": 2609543
  },
  {
+   "DisplayName": "Troax Group AB",
    "Name": "Troax Group AB",
    "Ticker": "TROAX SS",
    "Date": "2021-10-26",
@@ -1200,6 +814,7 @@
    "Insref": 1040239
  },
  {
+   "DisplayName": "Bravida Holding AB",
    "Name": "Bravida Holding AB",
    "Ticker": "BRAV SS",
    "Date": "2021-10-26",
@@ -1210,6 +825,7 @@
    "Insref": 1183669
  },
  {
+   "DisplayName": "SKF AB",
    "Name": "SKF AB",
    "Ticker": "SKFB SS",
    "Date": "2021-10-26",
@@ -1220,6 +836,7 @@
    "Insref": 1828
  },
  {
+   "DisplayName": "Resurs Holding AB",
    "Name": "Resurs Holding AB",
    "Ticker": "RESURS SS",
    "Date": "2021-10-26",
@@ -1230,6 +847,7 @@
    "Insref": 1396442
  },
  {
+   "DisplayName": "Nordic Entertainment Group AB",
    "Name": "Nordic Entertainment Group AB",
    "Ticker": "NENTB SS",
    "Date": "2021-10-26",
@@ -1240,6 +858,7 @@
    "Insref": 4294078
  },
  {
+   "DisplayName": "Kindred Group PLC",
    "Name": "Kindred Group PLC",
    "Ticker": "KINDSDB SS",
    "Date": "2021-10-27",
@@ -1250,6 +869,7 @@
    "Insref": 6192
  },
  {
+   "DisplayName": "Assa Abloy AB",
    "Name": "Assa Abloy AB",
    "Ticker": "ASSAB SS",
    "Date": "2021-10-27",
@@ -1260,16 +880,7 @@
    "Insref": 1192
  },
  {
-   "Name": "Mildef Group AB",
-   "Ticker": "MILDEF SS",
-   "Date": "2021-10-27",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5478934
- },
- {
+   "DisplayName": "Swedish Match AB",
    "Name": "Swedish Match AB",
    "Ticker": "SWMA SS",
    "Date": "2021-10-27",
@@ -1280,6 +891,7 @@
    "Insref": 5664
  },
  {
+   "DisplayName": "Arion Banki HF",
    "Name": "Arion Banki HF",
    "Ticker": "ARION IR",
    "Date": "2021-10-27",
@@ -1290,6 +902,7 @@
    "Insref": 3780630
  },
  {
+   "DisplayName": "Peab AB",
    "Name": "Peab AB",
    "Ticker": "PEABB SS",
    "Date": "2021-10-27",
@@ -1300,6 +913,7 @@
    "Insref": 4525
  },
  {
+   "DisplayName": "Trelleborg AB",
    "Name": "Trelleborg AB",
    "Ticker": "TRELB SS",
    "Date": "2021-10-27",
@@ -1310,6 +924,7 @@
    "Insref": 109
  },
  {
+   "DisplayName": "Bufab AB",
    "Name": "Bufab AB",
    "Ticker": "BUFAB SS",
    "Date": "2021-10-27",
@@ -1320,26 +935,7 @@
    "Insref": 769019
  },
  {
-   "Name": "XANO Industri AB",
-   "Ticker": "XANOB SS",
-   "Date": "2021-10-27",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 6461
- },
- {
-   "Name": "IAR Systems Group AB",
-   "Ticker": "IARB SS",
-   "Date": "2021-10-27",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,12 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3279
- },
- {
+   "DisplayName": "Electrolux AB",
    "Name": "Electrolux AB",
    "Ticker": "ELUXB SS",
    "Date": "2021-10-27",
@@ -1350,16 +946,7 @@
    "Insref": 2193
  },
  {
-   "Name": "Hoist Finance AB",
-   "Ticker": "HOFI SS",
-   "Date": "2021-10-27",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,60 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1037811
- },
- {
+   "DisplayName": "Corem Property Group AB",
    "Name": "Corem Property Group AB",
    "Ticker": "COREA SS",
    "Date": "2021-10-27",
@@ -1370,6 +957,7 @@
    "Insref": 3452091
  },
  {
+   "DisplayName": "Pandox AB",
    "Name": "Pandox AB",
    "Ticker": "PNDXB SS",
    "Date": "2021-10-27",
@@ -1380,6 +968,7 @@
    "Insref": 1095623
  },
  {
+   "DisplayName": "Beijer Alma AB",
    "Name": "Beijer Alma AB",
    "Ticker": "BEIAB SS",
    "Date": "2021-10-27",
@@ -1390,6 +979,7 @@
    "Insref": 1502
  },
  {
+   "DisplayName": "Lundin Mining Corp",
    "Name": "Lundin Mining Corp",
    "Ticker": "LUN CN",
    "Date": "2021-10-27",
@@ -1400,6 +990,7 @@
    "Insref": 3446
  },
  {
+   "DisplayName": "ICA Gruppen AB",
    "Name": "ICA Gruppen AB",
    "Ticker": "ICA SS",
    "Date": "2021-10-28",
@@ -1410,16 +1001,7 @@
    "Insref": 108
  },
  {
-   "Name": "Scandic Hotels Group AB",
-   "Ticker": "SHOT SS",
-   "Date": "2021-10-28",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "0,19 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1220645
- },
- {
+   "DisplayName": "MIPS AB",
    "Name": "MIPS AB",
    "Ticker": "MIPS SS",
    "Date": "2021-10-28",
@@ -1430,6 +1012,7 @@
    "Insref": 3014035
  },
  {
+   "DisplayName": "Skanska AB",
    "Name": "Skanska AB",
    "Ticker": "SKAB SS",
    "Date": "2021-10-28",
@@ -1440,16 +1023,7 @@
    "Insref": 360
  },
  {
-   "Name": "Tobii AB",
-   "Ticker": "TOBII SS",
-   "Date": "2021-10-28",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,042)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1061816
- },
- {
+   "DisplayName": "Evolution AB",
    "Name": "Evolution AB",
    "Ticker": "EVO SS",
    "Date": "2021-10-28",
@@ -1460,6 +1034,7 @@
    "Insref": 1034561
  },
  {
+   "DisplayName": "Catena AB",
    "Name": "Catena AB",
    "Ticker": "CATE SS",
    "Date": "2021-10-28",
@@ -1470,76 +1045,7 @@
    "Insref": 1687
  },
  {
-   "Name": "Immunicum AB",
-   "Ticker": "IMMU SS",
-   "Date": "2021-10-28",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 567849
- },
- {
-   "Name": "Micro Systemation AB",
-   "Ticker": "MSABB SS",
-   "Date": "2021-10-28",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "1,44 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 45196
- },
- {
-   "Name": "CTT Systems AB",
-   "Ticker": "CTT SS",
-   "Date": "2021-10-28",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1728
- },
- {
-   "Name": "FM Mattsson Mora Group AB",
-   "Ticker": "FMMB SS",
-   "Date": "2021-10-28",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3030062
- },
- {
-   "Name": "Prevas AB",
-   "Ticker": "PREVB SS",
-   "Date": "2021-10-28",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4543
- },
- {
-   "Name": "Serneke Group AB",
-   "Ticker": "SRNKEB SS",
-   "Date": "2021-10-28",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "0,40 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2602002
- },
- {
-   "Name": "C-RAD AB",
-   "Ticker": "CRADB SS",
-   "Date": "2021-10-28",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "0,20 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1723
- },
- {
+   "DisplayName": "JM AB",
    "Name": "JM AB",
    "Ticker": "JM SS",
    "Date": "2021-10-28",
@@ -1550,6 +1056,7 @@
    "Insref": 3318
  },
  {
+   "DisplayName": "Indutrade AB",
    "Name": "Indutrade AB",
    "Ticker": "INDT SS",
    "Date": "2021-10-28",
@@ -1560,16 +1067,7 @@
    "Insref": 3273
  },
  {
-   "Name": "INVISIO AB",
-   "Ticker": "IVSO SS",
-   "Date": "2021-10-28",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,777 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3299
- },
- {
+   "DisplayName": "Biotage AB",
    "Name": "Biotage AB",
    "Ticker": "BIOT SS",
    "Date": "2021-10-28",
@@ -1580,6 +1078,7 @@
    "Insref": 137
  },
  {
+   "DisplayName": "Swedish Orphan Biovitrum AB",
    "Name": "Swedish Orphan Biovitrum AB",
    "Ticker": "SOBI SS",
    "Date": "2021-10-28",
@@ -1590,6 +1089,7 @@
    "Insref": 1669
  },
  {
+   "DisplayName": "Heba Fastighets AB",
    "Name": "Heba Fastighets AB",
    "Ticker": "HEBAB SS",
    "Date": "2021-10-28",
@@ -1600,46 +1100,7 @@
    "Insref": 2820
  },
  {
-   "Name": "Fingerprint Cards AB",
-   "Ticker": "FINGB SS",
-   "Date": "2021-10-28",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2700
- },
- {
-   "Name": "Bactiguard Holding AB",
-   "Ticker": "BACTIB SS",
-   "Date": "2021-10-28",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,29)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 876121
- },
- {
-   "Name": "Nordic Paper Holding AB",
-   "Ticker": "NPAPER SS",
-   "Date": "2021-10-28",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,32)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5142918
- },
- {
-   "Name": "Bergs Timber AB",
-   "Ticker": "BRGB SS",
-   "Date": "2021-10-28",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1661
- },
- {
+   "DisplayName": "Modern Times Group MTG AB",
    "Name": "Modern Times Group MTG AB",
    "Ticker": "MTGB SS",
    "Date": "2021-10-28",
@@ -1650,6 +1111,7 @@
    "Insref": 2194
  },
  {
+   "DisplayName": "Nolato AB",
    "Name": "Nolato AB",
    "Ticker": "NOLAB SS",
    "Date": "2021-10-28",
@@ -1660,6 +1122,7 @@
    "Insref": 4030
  },
  {
+   "DisplayName": "Lundin Energy AB",
    "Name": "Lundin Energy AB",
    "Ticker": "LUNE SS",
    "Date": "2021-10-28",
@@ -1670,6 +1133,7 @@
    "Insref": 356
  },
  {
+   "DisplayName": "Millicom International Cellula",
    "Name": "Millicom International Cellula",
    "Ticker": "TIGO US",
    "Date": "2021-10-28",
@@ -1680,16 +1144,7 @@
    "Insref": 3678
  },
  {
-   "Name": "Bonava AB",
-   "Ticker": "BONAVA SS",
-   "Date": "2021-10-28",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "2,43 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1457869
- },
- {
+   "DisplayName": "Electrolux Professional AB",
    "Name": "Electrolux Professional AB",
    "Ticker": "EPROB SS",
    "Date": "2021-10-28",
@@ -1700,16 +1155,7 @@
    "Insref": 2193
  },
  {
-   "Name": "Annehem Fastigheter AB",
-   "Ticker": "ANNEB SS",
-   "Date": "2021-10-28",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5210344
- },
- {
+   "DisplayName": "AddTech AB",
    "Name": "AddTech AB",
    "Ticker": "ADDTB SS",
    "Date": "2021-10-28",
@@ -1720,6 +1166,7 @@
    "Insref": 902
  },
  {
+   "DisplayName": "Hexagon AB",
    "Name": "Hexagon AB",
    "Ticker": "HEXAB SS",
    "Date": "2021-10-28",
@@ -1730,6 +1177,7 @@
    "Insref": 104
  },
  {
+   "DisplayName": "Xvivo Perfusion AB",
    "Name": "Xvivo Perfusion AB",
    "Ticker": "XVIVO SS",
    "Date": "2021-10-28",
@@ -1740,6 +1188,7 @@
    "Insref": 471845
  },
  {
+   "DisplayName": "Arjo AB",
    "Name": "Arjo AB",
    "Ticker": "ARJOB SS",
    "Date": "2021-10-28",
@@ -1750,16 +1199,7 @@
    "Insref": 3443467
  },
  {
-   "Name": "Brinova Fastigheter AB",
-   "Ticker": "BRINB SS",
-   "Date": "2021-10-28",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2533222
- },
- {
+   "DisplayName": "Nokia Oyj",
    "Name": "Nokia Oyj",
    "Ticker": "NOKIA FH",
    "Date": "2021-10-28",
@@ -1770,6 +1210,7 @@
    "Insref": 2187
  },
  {
+   "DisplayName": "Karo Pharma AB",
    "Name": "Karo Pharma AB",
    "Ticker": "KARO SS",
    "Date": "2021-10-28",
@@ -1780,26 +1221,7 @@
    "Insref": 3365
  },
  {
-   "Name": "BioInvent International AB",
-   "Ticker": "BINV SS",
-   "Date": "2021-10-28",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(1,71)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1515
- },
- {
-   "Name": "Bulten AB",
-   "Ticker": "BULTEN SS",
-   "Date": "2021-10-28",
-   "Time": "13:30",
-   "Period": "Q3 21 ",
-   "Estimate": "1,35 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 203548
- },
- {
+   "DisplayName": "Sagax AB",
    "Name": "Sagax AB",
    "Ticker": "SAGAA SS",
    "Date": "2021-10-28",
@@ -1810,16 +1232,7 @@
    "Insref": 560558
  },
  {
-   "Name": "Cavotec SA",
-   "Ticker": "CCC SS",
-   "Date": "2021-10-29",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,02 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 274320
- },
- {
+   "DisplayName": "Sweco AB",
    "Name": "Sweco AB",
    "Ticker": "SWECB SS",
    "Date": "2021-10-29",
@@ -1830,16 +1243,7 @@
    "Insref": 5637
  },
  {
-   "Name": "Mekonomen AB",
-   "Ticker": "MEKO SS",
-   "Date": "2021-10-29",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "3,54 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3673
- },
- {
+   "DisplayName": "Lindab International AB",
    "Name": "Lindab International AB",
    "Ticker": "LIAB SS",
    "Date": "2021-10-29",
@@ -1850,16 +1254,7 @@
    "Insref": 3433
  },
  {
-   "Name": "Infant Bacterial Therapeutics",
-   "Ticker": "IBTB SS",
-   "Date": "2021-10-29",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "(4,45)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1366041
- },
- {
+   "DisplayName": "Nordnet AB publ",
    "Name": "Nordnet AB publ",
    "Ticker": "SAVE SS",
    "Date": "2021-10-29",
@@ -1870,26 +1265,7 @@
    "Insref": 5189405
  },
  {
-   "Name": "Episurf Medical AB",
-   "Ticker": "EPISB SS",
-   "Date": "2021-10-29",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 154006
- },
- {
-   "Name": "Lammhults Design Group AB",
-   "Ticker": "LAMMB SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3403
- },
- {
+   "DisplayName": "BHG Group AB",
    "Name": "BHG Group AB",
    "Ticker": "BHG SS",
    "Date": "2021-10-29",
@@ -1900,6 +1276,7 @@
    "Insref": 3634284
  },
  {
+   "DisplayName": "Vitrolife AB",
    "Name": "Vitrolife AB",
    "Ticker": "VITR SS",
    "Date": "2021-10-29",
@@ -1910,6 +1287,7 @@
    "Insref": 6315
  },
  {
+   "DisplayName": "Securitas AB",
    "Name": "Securitas AB",
    "Ticker": "SECUB SS",
    "Date": "2021-10-29",
@@ -1920,6 +1298,7 @@
    "Insref": 4937
  },
  {
+   "DisplayName": "Svenska Cellulosa AB SCA",
    "Name": "Svenska Cellulosa AB SCA",
    "Ticker": "SCAB SS",
    "Date": "2021-10-29",
@@ -1930,16 +1309,7 @@
    "Insref": 4711
  },
  {
-   "Name": "Atvexa AB",
-   "Ticker": "ATVEXAB SS",
-   "Date": "2021-10-29",
-   "Time": "",
-   "Period": "Y 21 ",
-   "Estimate": "6,13 ",
-   "Description": "Y 2021 Earnings Release",
-   "Insref": 3452334
- },
- {
+   "DisplayName": "Fenix Outdoor International AG",
    "Name": "Fenix Outdoor International AG",
    "Ticker": "FOIB SS",
    "Date": "2021-10-29",
@@ -1950,6 +1320,7 @@
    "Insref": 879031
  },
  {
+   "DisplayName": "Traton SE",
    "Name": "Traton SE",
    "Ticker": "8TRA GR",
    "Date": "2021-10-29",
@@ -1960,36 +1331,7 @@
    "Insref": 4426296
  },
  {
-   "Name": "Cloetta AB",
-   "Ticker": "CLAB SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1703
- },
- {
-   "Name": "Medcap AB",
-   "Ticker": "MCAP SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3561
- },
- {
-   "Name": "Projektengagemang Sweden AB",
-   "Ticker": "PENGB SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3789303
- },
- {
+   "DisplayName": "AAK AB",
    "Name": "AAK AB",
    "Ticker": "AAK SS",
    "Date": "2021-10-29",
@@ -2000,6 +1342,7 @@
    "Insref": 728
  },
  {
+   "DisplayName": "Fagerhult AB",
    "Name": "Fagerhult AB",
    "Ticker": "FAG SS",
    "Date": "2021-10-29",
@@ -2010,16 +1353,7 @@
    "Insref": 2683
  },
  {
-   "Name": "AcadeMedia AB",
-   "Ticker": "ACAD SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q1 22 ",
-   "Estimate": "0,90 ",
-   "Description": "Q1 2022 Earnings Release",
-   "Insref": 1468776
- },
- {
+   "DisplayName": "Momentum Group AB",
    "Name": "Momentum Group AB",
    "Ticker": "MMGRB SS",
    "Date": "2021-10-29",
@@ -2030,6 +1364,7 @@
    "Insref": 3138961
  },
  {
+   "DisplayName": "AddNode Group AB",
    "Name": "AddNode Group AB",
    "Ticker": "ANODB SS",
    "Date": "2021-10-29",
@@ -2040,46 +1375,7 @@
    "Insref": 1094
  },
  {
-   "Name": "FormPipe Software AB",
-   "Ticker": "FPIP SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,14 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2738
- },
- {
-   "Name": "Linc AB",
-   "Ticker": "LINC SS",
-   "Date": "2021-10-29",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5467534
- },
- {
-   "Name": "Xbrane Biopharma AB",
-   "Ticker": "XBRANE SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(2,32)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1289051
- },
- {
-   "Name": "Genova Property Group AB",
-   "Ticker": "GPG SS",
-   "Date": "2021-10-29",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4985495
- },
- {
+   "DisplayName": "Bilia AB",
    "Name": "Bilia AB",
    "Ticker": "BILIA SS",
    "Date": "2021-10-29",
@@ -2090,6 +1386,7 @@
    "Insref": 1511
  },
  {
+   "DisplayName": "Hexatronic Group AB",
    "Name": "Hexatronic Group AB",
    "Ticker": "HTRO SS",
    "Date": "2021-11-02",
@@ -2100,16 +1397,7 @@
    "Insref": 42936
  },
  {
-   "Name": "ITAB Shop Concept AB",
-   "Ticker": "ITAB SS",
-   "Date": "2021-11-02",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3298
- },
- {
+   "DisplayName": "NCC AB",
    "Name": "NCC AB",
    "Ticker": "NCCB SS",
    "Date": "2021-11-02",
@@ -2120,16 +1408,7 @@
    "Insref": 3788
  },
  {
-   "Name": "Kabe Group AB",
-   "Ticker": "KABEB SS",
-   "Date": "2021-11-02",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3360
- },
- {
+   "DisplayName": "Sinch AB",
    "Name": "Sinch AB",
    "Ticker": "SINCH SS",
    "Date": "2021-11-02",
@@ -2140,56 +1419,7 @@
    "Insref": 1175000
  },
  {
-   "Name": "International Petroleum Corp/S",
-   "Ticker": "IPCO SS",
-   "Date": "2021-11-02",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,19 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3048216
- },
- {
-   "Name": "Nordic Waterproofing Holding A",
-   "Ticker": "NWG SS",
-   "Date": "2021-11-02",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1461665
- },
- {
-   "Name": "Orexo AB",
-   "Ticker": "ORX SS",
-   "Date": "2021-11-03",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "(1,79)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4325
- },
- {
-   "Name": "Moment Group AB",
-   "Ticker": "MOMENT SS",
-   "Date": "2021-11-03",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "(1,22)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4
- },
- {
-   "Name": "SinterCast AB",
-   "Ticker": "SINT SS",
-   "Date": "2021-11-03",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "1,44 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5033
- },
- {
+   "DisplayName": "Medicover AB",
    "Name": "Medicover AB",
    "Ticker": "MCOVB SS",
    "Date": "2021-11-03",
@@ -2200,46 +1430,7 @@
    "Insref": 3094990
  },
  {
-   "Name": "Actic Group AB",
-   "Ticker": "ATIC SS",
-   "Date": "2021-11-03",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,58)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3028155
- },
- {
-   "Name": "Concentric AB",
-   "Ticker": "COIC SS",
-   "Date": "2021-11-03",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,13 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 210455
- },
- {
-   "Name": "Concordia Maritime AB",
-   "Ticker": "CCORB SS",
-   "Date": "2021-11-03",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1692
- },
- {
-   "Name": "Medivir AB",
-   "Ticker": "MVIRB SS",
-   "Date": "2021-11-03",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3725
- },
- {
+   "DisplayName": "Loomis AB",
    "Name": "Loomis AB",
    "Ticker": "LOOMIS SS",
    "Date": "2021-11-03",
@@ -2250,76 +1441,7 @@
    "Insref": 3440
  },
  {
-   "Name": "Eltel AB",
-   "Ticker": "ELTEL SS",
-   "Date": "2021-11-03",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,035 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1000035
- },
- {
-   "Name": "Ambea AB",
-   "Ticker": "AMBEA SS",
-   "Date": "2021-11-04",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "1,78 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3020421
- },
- {
-   "Name": "Oncopeptides AB",
-   "Ticker": "ONCO SS",
-   "Date": "2021-11-04",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "(3,83)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2964548
- },
- {
-   "Name": "Q-Linea AB",
-   "Ticker": "QLINEA SS",
-   "Date": "2021-11-04",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4077128
- },
- {
-   "Name": "Active Biotech AB",
-   "Ticker": "ACTI SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 901
- },
- {
-   "Name": "Egetis Therapeutics AB",
-   "Ticker": "EGTX SS",
-   "Date": "2021-11-04",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,17)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 192347
- },
- {
-   "Name": "Ascelia Pharma AB",
-   "Ticker": "ACE SS",
-   "Date": "2021-11-04",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4251818
- },
- {
+   "DisplayName": "Hemnet Group AB",
    "Name": "Hemnet Group AB",
    "Ticker": "HEM SS",
    "Date": "2021-11-04",
@@ -2330,28 +1452,9 @@
    "Insref": 5421330
  },
  {
-   "Name": "BoneSupport Holding AB",
-   "Ticker": "BONEX SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,17)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3138979
- },
- {
-   "Name": "Camurus AB",
-   "Ticker": "CAMX SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,24)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1221151
- },
- {
+   "DisplayName": "Samhallsbyggnadsbolaget i Nord",
    "Name": "Samhallsbyggnadsbolaget i Nord",
-   "Ticker": "SBBB SS",
+   "Ticker": "HEM SS",
    "Date": "2021-11-04",
    "Time": "Bef-mkt",
    "Period": "Q3 21 ",
@@ -2360,96 +1463,7 @@
    "Insref": 949975
  },
  {
-   "Name": "XSpray Pharma AB",
-   "Ticker": "XSPRAY SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 949975
- },
- {
-   "Name": "Profoto Holding AB",
-   "Ticker": "PRFO SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,71 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5525578
- },
- {
-   "Name": "Vicore Pharma Holding AB",
-   "Ticker": "VICO SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1226323
- },
- {
-   "Name": "Karnov Group AB",
-   "Ticker": "KAR SS",
-   "Date": "2021-11-04",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4314374
- },
- {
-   "Name": "Railcare Group AB",
-   "Ticker": "RAIL SS",
-   "Date": "2021-11-05",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4561
- },
- {
-   "Name": "Etrion Corp",
-   "Ticker": "ETX CN",
-   "Date": "2021-11-05",
-   "Time": "08:05",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 154007
- },
- {
-   "Name": "G5 Entertainment AB",
-   "Ticker": "G5EN SS",
-   "Date": "2021-11-05",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "6,94 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2750
- },
- {
-   "Name": "New Wave Group AB",
-   "Ticker": "NEWAB SS",
-   "Date": "2021-11-05",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3944
- },
- {
-   "Name": "ZetaDisplay AB",
-   "Ticker": "ZETA SS",
-   "Date": "2021-11-08",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 192067
- },
- {
+   "DisplayName": "Lundin Gold Inc",
    "Name": "Lundin Gold Inc",
    "Ticker": "LUG CN",
    "Date": "2021-11-08",
@@ -2460,6 +1474,7 @@
    "Insref": 974523
  },
  {
+   "DisplayName": "Investment AB Latour",
    "Name": "Investment AB Latour",
    "Ticker": "LATOB SS",
    "Date": "2021-11-09",
@@ -2470,16 +1485,7 @@
    "Insref": 3411
  },
  {
-   "Name": "Net Insight AB",
-   "Ticker": "NETIB SS",
-   "Date": "2021-11-09",
-   "Time": "08:45",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3939
- },
- {
+   "DisplayName": "Instalco AB",
    "Name": "Instalco AB",
    "Ticker": "INSTAL SS",
    "Date": "2021-11-09",
@@ -2490,46 +1496,7 @@
    "Insref": 3074594
  },
  {
-   "Name": "B3 Consulting Group AB",
-   "Ticker": "B3 SS",
-   "Date": "2021-11-09",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1465141
- },
- {
-   "Name": "Infrea AB",
-   "Ticker": "INFREA SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3677231
- },
- {
-   "Name": "Gaming Innovation Group Inc",
-   "Ticker": "GIG NO",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,02 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4295178
- },
- {
-   "Name": "Arctic Paper SA",
-   "Ticker": "ATC PW",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 513830
- },
- {
+   "DisplayName": "Cint Group AB",
    "Name": "Cint Group AB",
    "Ticker": "CINT SS",
    "Date": "2021-11-09",
@@ -2540,76 +1507,7 @@
    "Insref": 5315210
  },
  {
-   "Name": "Moberg Pharma AB",
-   "Ticker": "MOB SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 204778
- },
- {
-   "Name": "Hanza Holding AB",
-   "Ticker": "HANZA SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,67 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 876117
- },
- {
-   "Name": "Duroc AB",
-   "Ticker": "DURCB SS",
-   "Date": "2021-11-09",
-   "Time": "",
-   "Period": "Q1 22 ",
-   "Estimate": "",
-   "Description": "Q1 2022 Earnings Release",
-   "Insref": 2123
- },
- {
-   "Name": "Tethys Oil AB",
-   "Ticker": "TETY SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5903
- },
- {
-   "Name": "Stendorren Fastigheter AB",
-   "Ticker": "STEFB SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "2,70 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 178712
- },
- {
-   "Name": "Rvrc Holding AB",
-   "Ticker": "RVRC SS",
-   "Date": "2021-11-09",
-   "Time": "",
-   "Period": "Q1 22 ",
-   "Estimate": "",
-   "Description": "Q1 2022 Earnings Release",
-   "Insref": 5500235
- },
- {
-   "Name": "Coor Service Management Holdin",
-   "Ticker": "COOR SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,26 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1094577
- },
- {
+   "DisplayName": "Boozt AB",
    "Name": "Boozt AB",
    "Ticker": "BOOZT SS",
    "Date": "2021-11-09",
@@ -2620,106 +1518,7 @@
    "Insref": 3101734
  },
  {
-   "Name": "IRRAS AB",
-   "Ticker": "IRRAS SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,42)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3415255
- },
- {
-   "Name": "WastBygg AB",
-   "Ticker": "WBGRB SS",
-   "Date": "2021-11-09",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5133399
- },
- {
-   "Name": "Eastnine AB",
-   "Ticker": "EAST SS",
-   "Date": "2021-11-10",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2295
- },
- {
-   "Name": "Fastighets AB Trianon",
-   "Ticker": "TRIANB SS",
-   "Date": "2021-11-10",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "1,70 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3140714
- },
- {
-   "Name": "BTS Group AB",
-   "Ticker": "BTSB SS",
-   "Date": "2021-11-10",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "2,10 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1666
- },
- {
-   "Name": "Boule Diagnostics AB",
-   "Ticker": "BOUL SS",
-   "Date": "2021-11-10",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,40 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 89922
- },
- {
-   "Name": "Lucara Diamond Corp",
-   "Ticker": "LUC CN",
-   "Date": "2021-11-10",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,019 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 291181
- },
- {
-   "Name": "TradeDoubler AB",
-   "Ticker": "TRAD SS",
-   "Date": "2021-11-10",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 6103
- },
- {
-   "Name": "Arise AB",
-   "Ticker": "ARISE SS",
-   "Date": "2021-11-10",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,68 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 94505
- },
- {
-   "Name": "Stillfront Group AB",
-   "Ticker": "SF SS",
-   "Date": "2021-11-10",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,584 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1224945
- },
- {
+   "DisplayName": "BICO Group AB",
    "Name": "BICO Group AB",
    "Ticker": "BICO SS",
    "Date": "2021-11-10",
@@ -2730,96 +1529,7 @@
    "Insref": 2573813
  },
  {
-   "Name": "Irlab Therapeutics AB",
-   "Ticker": "IRLABA SS",
-   "Date": "2021-11-10",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2974094
- },
- {
-   "Name": "Green Landscaping Group AB",
-   "Ticker": "GREEN SS",
-   "Date": "2021-11-10",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,72 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3628701
- },
- {
-   "Name": "Josemaria Resources Inc",
-   "Ticker": "JOSE CN",
-   "Date": "2021-11-10",
-   "Time": "Aft-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 876119
- },
- {
-   "Name": "Catella AB",
-   "Ticker": "CATB SS",
-   "Date": "2021-11-11",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,17 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4785
- },
- {
-   "Name": "Readly International AB",
-   "Ticker": "READ SS",
-   "Date": "2021-11-11",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "(1,24)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5089710
- },
- {
-   "Name": "Humana AB",
-   "Ticker": "HUM SS",
-   "Date": "2021-11-11",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "2,235 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1359612
- },
- {
-   "Name": "Arla Plast AB",
-   "Ticker": "ARPL SS",
-   "Date": "2021-11-11",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,44 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5462470
- },
- {
-   "Name": "Pierce Group AB",
-   "Ticker": "PIERCE SS",
-   "Date": "2021-11-11",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,33 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5373518
- },
- {
-   "Name": "Viking Supply Ships AB",
-   "Ticker": "VSSABB SS",
-   "Date": "2021-11-11",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4555
- },
- {
+   "DisplayName": "Bure Equity AB",
    "Name": "Bure Equity AB",
    "Ticker": "BURE SS",
    "Date": "2021-11-11",
@@ -2830,16 +1540,7 @@
    "Insref": 1667
  },
  {
-   "Name": "GARO AB",
-   "Ticker": "GARO SS",
-   "Date": "2021-11-11",
-   "Time": "09:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,32 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1327997
- },
- {
+   "DisplayName": "Fastighets AB Balder",
    "Name": "Fastighets AB Balder",
    "Ticker": "BALDB SS",
    "Date": "2021-11-11",
@@ -2850,36 +1551,7 @@
    "Insref": 1495
  },
  {
-   "Name": "Oscar Properties Holding AB",
-   "Ticker": "1286281D SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 764793
- },
- {
-   "Name": "Novotek AB",
-   "Ticker": "NTEKB SS",
-   "Date": "2021-11-11",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4048
- },
- {
-   "Name": "NGS Group AB",
-   "Ticker": "NGS SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 45182
- },
- {
+   "DisplayName": "Hufvudstaden AB",
    "Name": "Hufvudstaden AB",
    "Ticker": "HUFVA SS",
    "Date": "2021-11-11",
@@ -2890,136 +1562,7 @@
    "Insref": 3019
  },
  {
-   "Name": "Cibus Nordic Real Estate AB",
-   "Ticker": "CIBUS SS",
-   "Date": "2021-11-11",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,25 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3600681
- },
- {
-   "Name": "John Mattson Fastighetsforetag",
-   "Ticker": "JOMA SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,00 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4387269
- },
- {
-   "Name": "Bong AB",
-   "Ticker": "BONG SS",
-   "Date": "2021-11-11",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1652
- },
- {
-   "Name": "Cantargia AB",
-   "Ticker": "CANTA SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,91)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1032836
- },
- {
-   "Name": "LeoVegas AB",
-   "Ticker": "LEO SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,10 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1329009
- },
- {
-   "Name": "Empir Group AB",
-   "Ticker": "EMPIRB SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,44)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3698
- },
- {
-   "Name": "Endomines AB",
-   "Ticker": "ENDO SS",
-   "Date": "2021-11-11",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,12)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2395
- },
- {
-   "Name": "Immunovia AB",
-   "Ticker": "IMMNOV SS",
-   "Date": "2021-11-11",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "(5,48)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1219873
- },
- {
-   "Name": "Stockwik Forvaltning AB",
-   "Ticker": "STWK SS",
-   "Date": "2021-11-12",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,92 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3688
- },
- {
-   "Name": "Precise Biometrics AB",
-   "Ticker": "PREC SS",
-   "Date": "2021-11-12",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,004)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4542
- },
- {
-   "Name": "Ortivus AB",
-   "Ticker": "ORTIB SS",
-   "Date": "2021-11-12",
-   "Time": "08:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4324
- },
- {
-   "Name": "Starbreeze AB",
-   "Ticker": "STARB SS",
-   "Date": "2021-11-12",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5386
- },
- {
-   "Name": "Wise Group AB",
-   "Ticker": "WISE SS",
-   "Date": "2021-11-12",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 6426
- },
- {
+   "DisplayName": "K-fast Holding AB",
    "Name": "K-fast Holding AB",
    "Ticker": "KFASTB SS",
    "Date": "2021-11-12",
@@ -3030,16 +1573,7 @@
    "Insref": 4609519
  },
  {
-   "Name": "Sleep Cycle AB",
-   "Ticker": "SLEEP SS",
-   "Date": "2021-11-12",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "0,20 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5484204
- },
- {
+   "DisplayName": "AstraZeneca PLC",
    "Name": "AstraZeneca PLC",
    "Ticker": "AZN LN",
    "Date": "2021-11-12",
@@ -3050,6 +1584,7 @@
    "Insref": 1295
  },
  {
+   "DisplayName": "NCAB Group AB",
    "Name": "NCAB Group AB",
    "Ticker": "NCAB SS",
    "Date": "2021-11-12",
@@ -3060,86 +1595,7 @@
    "Insref": 3759979
  },
  {
-   "Name": "Ferronordic AB",
-   "Ticker": "FNM SS",
-   "Date": "2021-11-12",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "6,38 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3364577
- },
- {
-   "Name": "Sivers Semiconductors AB",
-   "Ticker": "SIVE SS",
-   "Date": "2021-11-12",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 205220
- },
- {
-   "Name": "Image Systems AB",
-   "Ticker": "IS SS",
-   "Date": "2021-11-12",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2124
- },
- {
-   "Name": "Scandi Standard AB",
-   "Ticker": "SCST SS",
-   "Date": "2021-11-12",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "2,135 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 879314
- },
- {
-   "Name": "Senzime AB",
-   "Ticker": "SEZI SS",
-   "Date": "2021-11-12",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4963
- },
- {
-   "Name": "Africa Oil Corp",
-   "Ticker": "AOI CN",
-   "Date": "2021-11-12",
-   "Time": "Aft-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,07 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 145168
- },
- {
-   "Name": "Electra Gruppen AB",
-   "Ticker": "ELEC SS",
-   "Date": "2021-11-16",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2330
- },
- {
-   "Name": "Catena Media PLC",
-   "Ticker": "CTM SS",
-   "Date": "2021-11-17",
-   "Time": "07:00",
-   "Period": "Q3 21 ",
-   "Estimate": "0,10 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1295672
- },
- {
+   "DisplayName": "Better Collective A/S",
    "Name": "Better Collective A/S",
    "Ticker": "BETCO SS",
    "Date": "2021-11-17",
@@ -3150,6 +1606,7 @@
    "Insref": 3763659
  },
  {
+   "DisplayName": "Nibe Industrier AB",
    "Name": "Nibe Industrier AB",
    "Ticker": "NIBEB SS",
    "Date": "2021-11-17",
@@ -3160,116 +1617,7 @@
    "Insref": 3947
  },
  {
-   "Name": "RaySearch Laboratories AB",
-   "Ticker": "RAYB SS",
-   "Date": "2021-11-18",
-   "Time": "07:45",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,60)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4573
- },
- {
-   "Name": "Saniona AB",
-   "Ticker": "SANION SS",
-   "Date": "2021-11-18",
-   "Time": "08:00",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 818216
- },
- {
-   "Name": "Balco Group AB",
-   "Ticker": "BALCO SS",
-   "Date": "2021-11-18",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,045 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 3333283
- },
- {
-   "Name": "Eolus Vind AB",
-   "Ticker": "EOLUB SS",
-   "Date": "2021-11-18",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "2,63 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 42492
- },
- {
-   "Name": "Calliditas Therapeutics AB",
-   "Ticker": "CALTX SS",
-   "Date": "2021-11-18",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "(3,50)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4893174
- },
- {
-   "Name": "Oasmia Pharmaceutical AB",
-   "Ticker": "OASM SS",
-   "Date": "2021-11-18",
-   "Time": "",
-   "Period": "Q3 21 ",
-   "Estimate": "(0,09)",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 45215
- },
- {
-   "Name": "Fasadgruppen Group AB",
-   "Ticker": "FG SS",
-   "Date": "2021-11-18",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "1,65 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 5207080
- },
- {
-   "Name": "Karolinska Development AB",
-   "Ticker": "KDEV SS",
-   "Date": "2021-11-18",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 196595
- },
- {
-   "Name": "Bjorn Borg AB",
-   "Ticker": "BORG SS",
-   "Date": "2021-11-19",
-   "Time": "07:30",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 1657
- },
- {
-   "Name": "Abliva AB",
-   "Ticker": "ABLI SS",
-   "Date": "2021-11-19",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 4052
- },
- {
-   "Name": "Maha Energy AB",
-   "Ticker": "MAHAA SS",
-   "Date": "2021-11-22",
-   "Time": "Bef-mkt",
-   "Period": "Q3 21 ",
-   "Estimate": "0,11 ",
-   "Description": "Q3 2021 Earnings Release",
-   "Insref": 2199139
- },
- {
+   "DisplayName": "Multiq International AB",
    "Name": "Multiq International AB",
    "Ticker": "MULQ SS",
    "Date": "2021-11-23",
@@ -3280,6 +1628,7 @@
    "Insref": 3724
  },
  {
+   "DisplayName": "Sensys Gatso Group AB",
    "Name": "Sensys Gatso Group AB",
    "Ticker": "SENS SS",
    "Date": "2021-11-24",
@@ -3290,6 +1639,7 @@
    "Insref": 4959
  },
  {
+   "DisplayName": "L E Lundbergforetagen AB",
    "Name": "L E Lundbergforetagen AB",
    "Ticker": "LUNDB SS",
    "Date": "2021-11-24",
@@ -3300,6 +1650,7 @@
    "Insref": 3448
  },
  {
+   "DisplayName": "Malmbergs Elektriska AB",
    "Name": "Malmbergs Elektriska AB",
    "Ticker": "MEABB SS",
    "Date": "2021-11-24",
@@ -3310,6 +1661,7 @@
    "Insref": 3664
  },
  {
+   "DisplayName": "Elekta AB",
    "Name": "Elekta AB",
    "Ticker": "EKTAB SS",
    "Date": "2021-11-25",
@@ -3320,6 +1672,7 @@
    "Insref": 2327
  },
  {
+   "DisplayName": "Strax AB",
    "Name": "Strax AB",
    "Ticker": "STRAX SS",
    "Date": "2021-11-25",
@@ -3330,6 +1683,7 @@
    "Insref": 4036
  },
  {
+   "DisplayName": "Odd Molly International AB",
    "Name": "Odd Molly International AB",
    "Ticker": "ODD SS",
    "Date": "2021-11-26",
@@ -3340,6 +1694,7 @@
    "Insref": 4080
  },
  {
+   "DisplayName": "Anoto Group AB",
    "Name": "Anoto Group AB",
    "Ticker": "ANOT SS",
    "Date": "2021-11-29",
@@ -3350,6 +1705,7 @@
    "Insref": 1095
  },
  {
+   "DisplayName": "SAS AB",
    "Name": "SAS AB",
    "Ticker": "SAS SS",
    "Date": "2021-11-30",
@@ -3360,6 +1716,7 @@
    "Insref": 4705
  },
  {
+   "DisplayName": "Concejo AB",
    "Name": "Concejo AB",
    "Ticker": "CNCJOB SS",
    "Date": "2021-11-30",
